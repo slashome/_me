@@ -1,0 +1,13 @@
+{
+  "name": "@slashome/me-content",
+  "private": true,
+  "type": "module",
+  "description": "Le contenu de slashome.me — inventaire, agents, concepts.",
+  "scripts": {
+    "sync-engine": "rm -rf engine && git clone --depth 1 --branch \"$(cat .engine-version)\" https://github.com/slashome/me.git engine",
+    "check": "tsx check.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0"
+  }
+}
