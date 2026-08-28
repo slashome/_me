@@ -1,3 +1,5 @@
+*[Français](./CONTRIBUTING.md) · [English](./CONTRIBUTING.en.md)*
+
 # Contribuer
 
 Ce dépôt est mon fonds personnel : ce que je garde, et ce qui m'a formé. Il est ouvert parce que **deux choses valent mieux quand elles viennent

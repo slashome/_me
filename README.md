@@ -23,8 +23,8 @@ source, c'est la seule règle non négociable. Une **découverte** part sur
 ne forme personne avant d'être lu. Si elle est adoptée, `suggestedBy` reste, et celui qui
 a montré quelque chose devient un agent du fonds, avec sa page.
 
-Tout est dans [CONTRIBUTING.md](./CONTRIBUTING.md). Sans écrire de JSON :
-[ouvre une issue](../../issues/new/choose).
+Tout est dans [CONTRIBUTING.md](./CONTRIBUTING.md) — *[in English](./CONTRIBUTING.en.md)*.
+Sans écrire de JSON : [ouvre une issue](../../issues/new/choose).
 
 ## Pourquoi ce dépôt est séparé
 
