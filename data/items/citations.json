@@ -927,7 +927,14 @@
   "essaie-rentrer-moule": {
     "type": "citation",
     "title": "Plus on essaie de rentrer dans le moule…",
-    "credits": [],
+    "credits": [
+      {
+        "agent": "anonyme",
+        "roles": [
+          "author"
+        ]
+      }
+    ],
     "text": "Plus on essaie de rentrer dans le moule, plus on ressemble à une tarte.",
     "added": "2026-08-29"
   },

@@ -55,8 +55,9 @@ body:
     attributes:
       label: Comment veux-tu être crédité ?
       description: >
-        Un nom, un pseudo. C'est ce qui apparaîtra si la proposition est adoptée. Laisse
-        vide si tu préfères rester anonyme.
+        Laisse vide et ce sera ton compte GitHub — c'est celui qui ouvre cette issue,
+        il n'y a rien de plus à fournir. Mets « anonyme » si tu préfères ne pas être
+        nommé : ta proposition comptera autant, elle n'aura simplement pas ton nom.
   - type: checkboxes
     id: regles
     attributes:

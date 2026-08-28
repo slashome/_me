@@ -1,7 +1,6 @@
 # Contribuer
 
-Ce dépôt est le fonds personnel de Florian Boulestreau : ce qu'il garde, et ce qui l'a
-formé. Il est ouvert parce que **deux choses valent mieux quand elles viennent
+Ce dépôt est mon fonds personnel : ce que je garde, et ce qui m'a formé. Il est ouvert parce que **deux choses valent mieux quand elles viennent
 d'ailleurs** — les corrections, et les découvertes.
 
 Ce sont deux gestes différents, et ils ne passent pas par la même porte.
@@ -13,11 +12,11 @@ Une erreur de fait, une orthographe, une attribution fausse, une traduction dout
 
 L'import initial en contient à coup sûr — dix orthographes ont déjà été corrigées à
 l'aveugle, et [`data/RAPPORT-import.md`](./data/RAPPORT-import.md) les liste toutes en
-demandant qu'on les relise. Les titres sont des incipits générés par machine. Plusieurs
+demandant que je les relise. Les titres ont été fabriqués par une machine à partir des premiers mots de chaque citation. Plusieurs
 attributions sont marquées `disputed` faute de source primaire.
 
 **Une correction porte sa source.** C'est la seule règle non négociable, et elle
-s'applique à tout le monde, y compris à ceux qui ont écrit le dépôt. Un lien vers une
+s'applique à tout le monde, moi compris. Un lien vers une
 édition, un dictionnaire, Quote Investigator, une page d'encyclopédie — pas « je crois
 me souvenir ».
 
@@ -43,8 +42,8 @@ a un formulaire pour ça, et il produit exactement les mêmes informations.
 
 ## Les trois règles
 
-1. **`note` ne se touche pas.** C'est le champ qui dit *pourquoi le propriétaire garde
-   une chose*. C'est sa voix. Un contributeur dispose de `context` pour expliquer les
+1. **`note` ne se touche pas.** C'est le champ qui dit *pourquoi je garde une
+   chose*. C'est ma voix. Un contributeur dispose de `context` pour expliquer les
    circonstances — la CI refuse toute proposition qui écrit `note`.
 2. **Une source par affirmation.** Voir plus haut.
 3. **Pas de propos de personnes privées identifiables** sans leur accord explicite. Une
@@ -99,6 +98,29 @@ Les types disponibles (`citation`, `livre`, `vinyl`, `video`, `film`, `article`)
 rôles et les langues sont définis dans le moteur, à la version épinglée par
 [`.engine-version`](./.engine-version).
 
+## Comment tu es crédité
+
+Par défaut, **avec ton compte GitHub** — c'est celui qui ouvre la PR ou l'issue, il n'y
+a rien de plus à fournir. Tu deviens un agent du fonds :
+
+```json
+{
+  "ton-slug": {
+    "kind": "person",
+    "name": "Ton Nom",
+    "links": [{ "label": "GitHub", "url": "https://github.com/ton-compte" }]
+  }
+}
+```
+
+**Si tu préfères ne pas être nommé**, mets `"suggestedBy": "anonyme"`. C'est un agent
+conventionnel, il existe déjà. Ta proposition compte autant ; elle n'aura simplement pas
+ton nom dessus.
+
+À ne pas confondre avec un auteur **inconnu** : dans ce cas l'item n'a aucun crédit du
+tout. `anonyme` dit « quelqu'un a choisi de ne pas être nommé », l'absence de crédit dit
+« on ne sait pas qui c'est ». Ce sont deux choses différentes et le fonds les distingue.
+
 ## Une PR, une chose
 
 Une correction ou une proposition par PR. C'est ce qui permet d'en accepter une et d'en
@@ -111,5 +133,5 @@ acceptes qu'elle soit publiée sous cette licence.
 
 ## Et si c'est refusé
 
-Ça arrive, et ça n'a pas à être justifié longuement. C'est un fonds personnel : son
+Ça arrive, et ça n'a pas à être longuement justifié. C'est un fonds personnel : le
 critère d'entrée est « est-ce que ça m'a formé », pas « est-ce que c'est bien ».

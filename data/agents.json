@@ -451,5 +451,10 @@
     "kind": "person",
     "name": "Jean d'Ormesson",
     "sortName": "d'Ormesson, Jean"
+  },
+  "anonyme": {
+    "kind": "person",
+    "name": "Anonyme",
+    "bio": "Agent conventionnel. Il porte ce qui est explicitement anonyme — un auteur qui a choisi de ne pas être nommé, un contributeur qui préfère ne pas l'être. À ne pas confondre avec un auteur INCONNU : dans ce cas l'item n'a simplement aucun crédit."
   }
 }
