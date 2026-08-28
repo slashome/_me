@@ -1,0 +1,68 @@
+name: Une découverte
+description: Me faire découvrir une citation, un livre, un disque, une vidéo, un film, un article.
+title: "[découverte] "
+labels: ["proposition"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci. Ce formulaire produit exactement les mêmes informations qu'une pull request
+        sur `data/propositions.json` — il évite juste d'écrire du JSON.
+
+        Une proposition **attend**. Si elle est adoptée, ton nom reste attaché à ce que tu
+        as fait découvrir, sur ta propre page. Si elle ne l'est pas, ce n'est pas un
+        jugement sur la chose : ce fonds dit ce qui a formé quelqu'un, pas ce qui est bien.
+  - type: dropdown
+    id: type
+    attributes:
+      label: De quoi s'agit-il ?
+      options: [citation, livre, vinyl, video, film, article]
+    validations:
+      required: true
+  - type: input
+    id: titre
+    attributes:
+      label: Titre
+      description: Court. Pour une citation, quelques mots qui la désignent.
+    validations:
+      required: true
+  - type: input
+    id: auteur
+    attributes:
+      label: De qui ?
+      description: >
+        Auteur, autrice, groupe, réalisateur… Si la personne est le SUJET plutôt que
+        l'auteur (une vidéo *sur* quelqu'un), dis-le ici.
+  - type: textarea
+    id: texte
+    attributes:
+      label: Le texte
+      description: Obligatoire pour une citation — c'est elle-même. Vide sinon.
+  - type: textarea
+    id: contexte
+    attributes:
+      label: Dans quelles circonstances ?
+      description: >
+        Où, quand, dans quel cadre est-ce dit ou publié. Pas pourquoi tu l'aimes —
+        les circonstances.
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Un lien. Une édition, une page d'encyclopédie, une vidéo.
+  - type: input
+    id: qui
+    attributes:
+      label: Comment veux-tu être crédité ?
+      description: >
+        Un nom, un pseudo. C'est ce qui apparaîtra si la proposition est adoptée. Laisse
+        vide si tu préfères rester anonyme.
+  - type: checkboxes
+    id: regles
+    attributes:
+      label: Deux vérifications
+      options:
+        - label: Ce ne sont pas les propos d'une personne privée identifiable sans son accord
+          required: true
+        - label: J'accepte que ma contribution soit publiée sous licence CC BY 4.0
+          required: true

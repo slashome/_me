@@ -11,7 +11,20 @@ data/
   concepts.json        les thèmes du fonds
   items/
     citations.json     l'inventaire, un fichier par type
+  propositions.json    ce que d'autres proposent, et qui n'est pas encore adopté
 ```
+
+## Corriger, ou faire découvrir quelque chose
+
+**Ce dépôt accepte les contributions**, et c'est délibéré : deux choses valent mieux
+quand elles viennent d'ailleurs. Une **correction** part en PR sur `data/` — avec sa
+source, c'est la seule règle non négociable. Une **découverte** part sur
+`propositions.json`, jamais dans l'inventaire : celui-ci dit *ce qui m'a formé*, et rien
+ne forme personne avant d'être lu. Si elle est adoptée, `suggestedBy` reste, et celui qui
+a montré quelque chose devient un agent du fonds, avec sa page.
+
+Tout est dans [CONTRIBUTING.md](./CONTRIBUTING.md). Sans écrire de JSON :
+[ouvre une issue](../../issues/new/choose).
 
 ## Pourquoi ce dépôt est séparé
 

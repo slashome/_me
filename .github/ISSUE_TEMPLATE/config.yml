@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Écrire le JSON directement
+    url: https://github.com/slashome/_me/blob/main/CONTRIBUTING.md
+    about: Si tu préfères ouvrir une pull request, tout est expliqué là.

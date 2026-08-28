@@ -1,0 +1,35 @@
+name: Une correction
+description: Signaler une erreur de fait, d'orthographe, d'attribution ou de traduction.
+title: "[correction] "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        L'import initial du fonds en contient à coup sûr : dix orthographes ont déjà été
+        corrigées à l'aveugle, les titres sont générés par machine, et plusieurs
+        attributions sont marquées `disputed` faute de source primaire.
+        Voir [`data/RAPPORT-import.md`](../../blob/main/data/RAPPORT-import.md).
+  - type: input
+    id: ou
+    attributes:
+      label: Où ?
+      description: "Le slug de l'entrée, ou le fichier et la ligne. Ex. `agents/eschyle`."
+    validations:
+      required: true
+  - type: textarea
+    id: quoi
+    attributes:
+      label: Ce qui est faux, et ce qui est juste
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: >
+        Obligatoire. Un lien vers une édition, un dictionnaire, une encyclopédie,
+        Quote Investigator. « Je crois me souvenir » ne suffit pas — c'est la règle,
+        et elle vaut aussi pour ceux qui ont écrit ce dépôt.
+    validations:
+      required: true

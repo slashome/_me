@@ -1,0 +1,3 @@
+{
+  "_comment": "Ce que d'autres proposent, et qui n'est PAS encore dans le fonds. Même schéma que items/, mais `suggestedBy` y est obligatoire et `note` interdit. Une proposition adoptée est déplacée dans items/, `added` prend le jour de l'adoption, et `suggestedBy` reste. Voir CONTRIBUTING.md."
+}
