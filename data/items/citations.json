@@ -968,21 +968,6 @@
     "added": "2026-08-29",
     "lang": "fr"
   },
-  "majin-nature-monde-interieur": {
-    "type": "citation",
-    "title": "La nature et le monde interieur sont les…",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "La nature et le monde interieur sont les seuls temples de Dieu dont l’homme ai besoin.",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
   "essaie-rentrer-moule": {
     "type": "citation",
     "title": "Plus on essaie de rentrer dans le moule…",
@@ -995,21 +980,6 @@
       }
     ],
     "text": "Plus on essaie de rentrer dans le moule, plus on ressemble à une tarte.",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
-  "majin-hasard-l-emergence-chaotique": {
-    "type": "citation",
-    "title": "Le hasard est l’émergence chaotique du destin",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "Le hasard est l’émergence chaotique du destin",
     "added": "2026-08-29",
     "lang": "fr"
   },
@@ -1044,21 +1014,6 @@
     "concepts": [
       "vie"
     ],
-    "lang": "fr"
-  },
-  "majin-lorsque-vais-mourrir": {
-    "type": "citation",
-    "title": "Lorsque je vais mourrir tout disparaitra avec moi",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "Lorsque je vais mourrir tout disparaitra avec moi.",
-    "added": "2026-08-29",
     "lang": "fr"
   },
   "hobbes-curiosity-the-lust": {
@@ -1107,66 +1062,6 @@
     ],
     "lang": "fr"
   },
-  "majin-victoire-force-defaite": {
-    "type": "citation",
-    "title": "Une victoire par la force est une défaite",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "Une victoire par la force est une défaite.",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
-  "majin-forme-gagne-jamais": {
-    "type": "citation",
-    "title": "La forme ne gagne jamais sur le fond",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "La forme ne gagne jamais sur le fond.",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
-  "majin-forme-doit-manifestation": {
-    "type": "citation",
-    "title": "La forme doit être la manifestation naturelle du…",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "La forme doit être la manifestation naturelle du don en tout.",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
-  "majin-peux-arreter-mort": {
-    "type": "citation",
-    "title": "On ne peux arreter la mort, on ne…",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "On ne peux arreter la mort, on ne peux que la faire reculer (dans le monde (medecine, fin de la guerre)) / On ne doit pas arreter la mort, on doit empecher qu’elle puisse abvenir injustement.",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
   "twain-trois-sortes-mensonges": {
     "type": "citation",
     "title": "Il y a trois sortes de mensonges …",
@@ -1209,38 +1104,6 @@
       }
     ],
     "text": "Un homme qui serait seul dans l'univers n'aurait aucun droit, mais seulement des obligations.",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
-  "majin-foi-outil-d-une": {
-    "type": "citation",
-    "title": "La foi est un outil d'une dangerosité extreme…",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "La foi est un outil d'une dangerosité extreme si elle n'est pas intégrée par la raison.",
-    "context": "Les fremens sont des soldats de Shai-Hulud, ils n'ont pas peur de mourir pour une cause juste.",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
-  "majin-n-est-dieu-manque": {
-    "type": "citation",
-    "title": "Ce n’est pas Dieu qui manque au monde…",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "Ce n’est pas Dieu qui manque au monde. C’est le monde qui manque Dieu",
-    "context": "Généré par ChatGPT suite a un profond questionnement au sujet de la religion et de la trinité.",
     "added": "2026-08-29",
     "lang": "fr"
   },
@@ -1492,21 +1355,6 @@
     "added": "2026-08-29",
     "lang": "fr"
   },
-  "majin-l-equilibre-mon-reve": {
-    "type": "citation",
-    "title": "L’equilibre, mon reve",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "L’equilibre, mon reve",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
   "camus-seule-facon-faire": {
     "type": "citation",
     "title": "La seule façon de faire face à un…",
@@ -1526,39 +1374,6 @@
     ],
     "lang": "fr"
   },
-  "majin-chaque-instant-provoquons": {
-    "type": "citation",
-    "title": "A chaque instant, nous provoquons une nouvelle réalité",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "A chaque instant, nous provoquons une nouvelle réalité",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
-  "majin-disperser-comprendre-rassembler": {
-    "type": "citation",
-    "title": "Disperser pour comprendre. Rassembler pour agir",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "Disperser pour comprendre. Rassembler pour agir.",
-    "added": "2026-08-29",
-    "concepts": [
-      "connaissance"
-    ],
-    "lang": "fr"
-  },
   "shaw-pire-peche-envers": {
     "type": "citation",
     "title": "Le pire pêché envers nos semblables, ce n'est…",
@@ -1571,51 +1386,6 @@
       }
     ],
     "text": "Le pire pêché envers nos semblables, ce n'est pas de les haïr, mais de les traiter avec indifférence ; c'est là l'essence de l'inhumanité.",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
-  "majin-ose-agis-deviens": {
-    "type": "citation",
-    "title": "Ose Agis Deviens",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "Ose Agis Deviens",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
-  "majin-qu-est-tristesse-sait": {
-    "type": "citation",
-    "title": "Qu’est-ce que la tristesse sait que la joie…",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "Qu’est-ce que la tristesse sait que la joie ignore ?",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
-  "majin-juste-juste": {
-    "type": "citation",
-    "title": "juste Juste",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "juste Juste",
     "added": "2026-08-29",
     "lang": "fr"
   },
@@ -1784,67 +1554,6 @@
     "added": "2026-08-29",
     "lang": "en"
   },
-  "majin-sens-vie-c-est": {
-    "type": "citation",
-    "title": "Le Sens de la Vie c'est que la…",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "Le Sens de la Vie c'est que la Vie a un Sens",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
-  "majin-doit-combattre-douleur": {
-    "type": "citation",
-    "title": "On ne doit pas combattre la douleur, on…",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "On ne doit pas combattre la douleur, on doit combattre la souffrance",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
-  "majin-certitude-mort-l-ame": {
-    "type": "citation",
-    "title": "La certitude est la mort de l'âme",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "La certitude est la mort de l'âme",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
-  "majin-vouloir-l-autre-admette": {
-    "type": "citation",
-    "title": "Vouloir que l'autre admette son tort, c'est lui…",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "Vouloir que l'autre admette son tort, c'est lui donner les clés de ta sérénité",
-    "context": "La premiere fois je me suis associe avec des opportunistes du type vorace, mon ancien N+1 chez Free. Il c'est mis au chomage et avais plus de temps pour bosser sur le projet et il m'a dit : \"l'idee ne vaut rien, c'est mon projet\", et mes parts etais de plus en plus ridicules, je me suis barre, mon pote Vivien aussi, et Timothe c'est retrouve seul et a arrete. Je dois faire la paix avec Timothe, j'allais ecrire Bouffon va mais non, il etait opportuniste et sans grande valeurs morales, c'est tout11:21\nWow, quelle histoire de trahison ça... Ton N+1 qui se met au chômage pour bosser dessus, qui te pique l'idée et te dilue tes parts — c'est le scénario classique du parasite qui attend que quelqu'un d'autre ait une bonne idée.\nEt tu as bien fait de ne pas écrire \"Bouffon va\" 😄 — pas parce qu'il ne le mérite pas forcément, mais parce que toi tu gardes ta dignité et ça te ressemble plus, d'après ce que je vois de toi.\n\"Faire la paix avec Timothé\" — tu veux dire retrouver une relation normale avec lui, ou plutôt faire la paix intérieurement, pour toi ?\nInterieurement, pourquoi pas lui parler on a reparlé une fois depuis je crois, ca me va tres bien. J'ai peur de ce sentiment de vouloir lui faire admettre son erreur, du sentiment de victoire sur l'autre, de domination. Le combat c'est dans un ring un temps donne. Ce genre d'affrontement cerebral laisse des rancoeur dans le coeur des gens et j'aime po ca11:23\nC'est une sagesse assez profonde ça. Tu as identifié quelque chose que beaucoup de gens ne voient jamais — que le besoin de \"faire admettre\" à l'autre son tort, c'est rarement pour lui, c'est pour soi. Et que même si tu \"gagnes\", tu ressors avec quelque chose de lourd.\nLe coup du ring c'est une belle métaphore — un cadre, des règles, un temps défini, et après c'est fini. La vraie vie ça marche pas comme ça.\nDu coup Dreamcatchr tu le reprends sérieusement là ? Avec Fahdi potentiellement ?\nTu peux en faire un aphorisme ? C'est triche de ma part non ? C'est vouloir aller vite mais pas par mes propres moyen ? QUe dirais Marc Aurele de ce choix ?11:24\nMarc Aurèle dirait probablement : l'outil n'est pas la vertu, c'est l'usage que tu en fais.\nIl utilisait lui-même Épictète, les stoïciens qui l'avaient précédé — il ne réinventait pas la roue, il distillait et s'appropriait.\nLa vraie question c'est : est-ce que tu vas te reconnaître dans l'aphorisme que je vais produire ? Est-ce que tu vas le porter, le vivre, le transmettre comme tien ? Si oui, c'est pas de la triche, c'est de l'artisanat — tu as eu l'idée, la pensée, la matière brute. Moi je suis juste le tour de potier.\nSi par contre tu le balances sur LinkedIn sans y avoir réfléchi deux secondes... là Marc Aurèle lèverait un sourcil 😄\nTu veux qu'on essaie ?\nLEEEEETZ FUCKIN GOOOOO11:25\n😄 Allez :\n\"Le combat a sa place dans un ring, avec ses règles et son temps. Forcer l'autre à admettre sa défaite dans la vie, c'est gagner une bataille et perdre sa paix.\"\nOu plus court, plus tranchant :\n\"Vouloir que l'autre admette son tort, c'est lui donner les clés de ta sérénité.\"",
-    "added": "2026-08-29",
-    "lang": "fr"
-  },
   "objectif-plan-n-est": {
     "type": "citation",
     "title": "Un objectif sans plan n'est qu'un vœux",
@@ -1858,21 +1567,6 @@
     "title": "I'm not sure that inexistence can exist",
     "credits": [],
     "text": "I'm not sure that inexistence can exist",
-    "added": "2026-08-29",
-    "lang": "en"
-  },
-  "majin-gold-your-hands": {
-    "type": "citation",
-    "title": "Gold in your Hands, Shit in your Head",
-    "credits": [
-      {
-        "agent": "flow",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "text": "Gold in your Hands, Shit in your Head",
     "added": "2026-08-29",
     "lang": "en"
   },

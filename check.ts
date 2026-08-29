@@ -10,6 +10,7 @@
 import agentsData from './data/agents.json' with { type: 'json' };
 import conceptsData from './data/concepts.json' with { type: 'json' };
 import citationsData from './data/items/citations.json' with { type: 'json' };
+import aphorismesData from './data/journal/aphorismes.json' with { type: 'json' };
 import projectsData from './data/projects.json' with { type: 'json' };
 import propositionsData from './data/propositions.json' with { type: 'json' };
 import { buildIndex, compareAgents, rolesOfAgent } from './engine/_draft/collection/index-builder';
@@ -19,6 +20,7 @@ import {
   type Agent,
   type CollectionItem,
   type Concept,
+  type JournalEntry,
   type Keyed,
   type Project,
 } from './engine/_draft/collection/types';
@@ -27,6 +29,7 @@ import {
   validate,
   validatePropositions,
   validateProjects,
+  validateJournal,
 } from './engine/_draft/collection/validate';
 
 /** `_comment` documente le fichier, ce n'est pas une entrée. */
@@ -40,6 +43,7 @@ const concepts = fromKeyed<Concept>(withoutComment<Concept>(conceptsData));
 const items = fromKeyed<CollectionItem>(withoutComment<CollectionItem>(citationsData));
 const propositions = fromKeyed<CollectionItem>(withoutComment<CollectionItem>(propositionsData));
 const projects = fromKeyed<Project>(withoutComment<Project>(projectsData));
+const journal = fromKeyed<JournalEntry>(withoutComment<JournalEntry>(aphorismesData));
 
 /* Le schéma est vérifié sur l'UNION : une proposition référence les mêmes agents et les
    mêmes concepts, et son slug ne doit pas entrer en collision avec un item existant —
@@ -48,6 +52,7 @@ const { ok, text } = report([
   ...validate(agents, [...items, ...propositions], concepts),
   ...validatePropositions(propositions),
   ...validateProjects(projects),
+  ...validateJournal(journal, concepts),
 ]);
 console.log(text);
 if (!ok) throw new Error('Contenu invalide — voir ci-dessus.');
@@ -61,7 +66,7 @@ for (const a of agents) kinds.set(a.kind, (kinds.get(a.kind) ?? 0) + 1);
 console.log(
   `\n${items.length} items · ${agents.length} agents · ${projects.length} projets (${[...kinds]
     .map(([k, n]) => `${k}: ${n}`)
-    .join(', ')}) · ${concepts.length} concepts · ${propositions.length} proposition(s) en attente`,
+    .join(', ')}) · ${concepts.length} concepts · ${journal.length} entrées de journal · ${propositions.length} proposition(s) en attente`,
 );
 
 console.log('\n── Les plus cités');

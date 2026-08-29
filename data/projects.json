@@ -1,21 +1,5 @@
 {
   "_comment": "Ce que je fabrique. La clé EST le slug. `repo` n'est renseigné que si le dépôt est public ; sinon `links` porte ce qui est consultable.",
-  "atlas": {
-    "name": "ATLAS",
-    "description": "⚠️ à réécrire — un cadre de gouvernance mondiale (MANIFEST + SYSTEM). Dépôts privés ; le site, lui, est en ligne.",
-    "links": [
-      {
-        "label": "theatlasproject.net",
-        "url": "https://theatlasproject.net/"
-      }
-    ],
-    "tags": [
-      "gouvernance",
-      "manifeste"
-    ],
-    "status": "actif",
-    "featured": true
-  },
   "ariane": {
     "name": "ariane",
     "description": "Une méthode de gestion de projet assistée par IA, en fichiers, hiérarchique — le fil qui traverse tous les autres projets.",
@@ -126,15 +110,6 @@
     "tags": [
       "algorithme",
       "apprentissage"
-    ]
-  },
-  "dreamcatchr": {
-    "name": "dreamcatchr",
-    "description": "The best app for all your dreams.",
-    "status": "dormant",
-    "repo": "https://github.com/slashome/dreamcatchr",
-    "tags": [
-      "idée"
     ]
   }
 }
