@@ -1,0 +1,140 @@
+{
+  "_comment": "Ce que je fabrique. La clé EST le slug. `repo` n'est renseigné que si le dépôt est public ; sinon `links` porte ce qui est consultable.",
+  "atlas": {
+    "name": "ATLAS",
+    "description": "⚠️ à réécrire — un cadre de gouvernance mondiale (MANIFEST + SYSTEM). Dépôts privés ; le site, lui, est en ligne.",
+    "links": [
+      {
+        "label": "theatlasproject.net",
+        "url": "https://theatlasproject.net/"
+      }
+    ],
+    "tags": [
+      "gouvernance",
+      "manifeste"
+    ],
+    "status": "actif",
+    "featured": true
+  },
+  "ariane": {
+    "name": "ariane",
+    "description": "Une méthode de gestion de projet assistée par IA, en fichiers, hiérarchique — le fil qui traverse tous les autres projets.",
+    "status": "actif",
+    "repo": "https://github.com/slashome/ariane",
+    "tags": [
+      "méthode",
+      "agents",
+      "CLI"
+    ],
+    "featured": true
+  },
+  "dotflies": {
+    "name": "dotflies",
+    "description": "Gestionnaire de configuration : versionner la conf de vos logiciels et la réinstaller en une commande.",
+    "status": "actif",
+    "repo": "https://github.com/slashome/dotflies",
+    "tags": [
+      "dotfiles",
+      "poste de travail"
+    ],
+    "language": "Rust",
+    "featured": true
+  },
+  "knossos": {
+    "name": "knossos",
+    "description": "La cité du labyrinthe — une carte vivante et hiérarchique des pages de votre front-end.",
+    "status": "actif",
+    "repo": "https://github.com/slashome/knossos",
+    "tags": [
+      "front-end",
+      "visualisation"
+    ],
+    "language": "JavaScript",
+    "featured": true
+  },
+  "redlight": {
+    "name": "redlight",
+    "description": "Daemon de sync USB multi-périphériques (macOS + Linux). Pas de cloud, pas d'app sur le téléphone, ça sync au branchement.",
+    "status": "dormant",
+    "repo": "https://github.com/slashome/redlight",
+    "tags": [
+      "sync",
+      "daemon",
+      "sans cloud"
+    ],
+    "language": "Rust"
+  },
+  "karaokay": {
+    "name": "karaokay",
+    "description": "Les paroles synchronisées dans le terminal, branchées sur MPD.",
+    "status": "dormant",
+    "repo": "https://github.com/slashome/karaokay",
+    "tags": [
+      "terminal",
+      "musique"
+    ],
+    "language": "Python"
+  },
+  "kosmos": {
+    "name": "kosmos",
+    "description": "Un design system open source.",
+    "status": "dormant",
+    "repo": "https://github.com/slashome/kosmos",
+    "tags": [
+      "design system",
+      "UI"
+    ],
+    "language": "TypeScript"
+  },
+  "daedalus": {
+    "name": "daedalus",
+    "description": "Mon terrain de jeu pour l'architecture front-end.",
+    "status": "dormant",
+    "repo": "https://github.com/slashome/daedalus",
+    "tags": [
+      "architecture",
+      "front-end"
+    ],
+    "language": "Vue"
+  },
+  "userscripts": {
+    "name": "userscripts",
+    "description": "Ma collection de userscripts.",
+    "status": "actif",
+    "repo": "https://github.com/slashome/userscripts",
+    "tags": [
+      "navigateur",
+      "bricolage"
+    ],
+    "language": "JavaScript"
+  },
+  "homebrew-tap": {
+    "name": "homebrew-tap",
+    "description": "Le tap Homebrew des projets slashome.",
+    "status": "actif",
+    "repo": "https://github.com/slashome/homebrew-tap",
+    "tags": [
+      "distribution"
+    ],
+    "language": "Ruby"
+  },
+  "ortograf": {
+    "name": "ortograf",
+    "description": "Un algorithme orthographique simple, écrit pour apprendre Rust et comprendre la distance de Levenshtein.",
+    "status": "dormant",
+    "repo": "https://github.com/slashome/ortograf",
+    "tags": [
+      "algorithme",
+      "apprentissage"
+    ]
+  },
+  "dreamcatchr": {
+    "name": "dreamcatchr",
+    "description": "The best app for all your dreams.",
+    "status": "dormant",
+    "repo": "https://github.com/slashome/dreamcatchr",
+    "tags": [
+      "idée"
+    ]
+  }
+}
