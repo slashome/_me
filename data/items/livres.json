@@ -1,0 +1,107 @@
+{
+  "_comment": "Les livres du fonds. `shelf` dit où en est la lecture — `wanted` et `unread` n'ont pas encore formé qui que ce soit, et c'est à la vue de le dire. `published` est vide quand la date est antérieure à notre ère : une date ISO tronquée ne sait pas l'écrire.",
+  "weil-oeuvres": {
+    "type": "livre",
+    "title": "Œuvres",
+    "credits": [
+      {
+        "agent": "simone-weil",
+        "roles": [
+          "author"
+        ]
+      }
+    ],
+    "published": "1999",
+    "shelf": "reading",
+    "pinned": true,
+    "context": "⚠️ édition à confirmer — le volume Quarto de Gallimard, sauf erreur.",
+    "added": "2026-08-30",
+    "concepts": [
+      "spiritualite",
+      "societe",
+      "connaissance"
+    ]
+  },
+  "platon-la-republique": {
+    "type": "livre",
+    "title": "La République",
+    "credits": [
+      {
+        "agent": "platon",
+        "roles": [
+          "author"
+        ]
+      }
+    ],
+    "shelf": "unread",
+    "context": "Écrite au IVᵉ siècle avant notre ère. `published` reste vide : une date ISO tronquée ne sait pas dire « avant notre ère », et inventer un millésime casserait le tri de tout le fonds.",
+    "added": "2026-08-30",
+    "concepts": [
+      "democratie",
+      "societe",
+      "liberte"
+    ]
+  },
+  "marx-le-capital": {
+    "type": "livre",
+    "title": "Le Capital",
+    "credits": [
+      {
+        "agent": "karl-marx",
+        "roles": [
+          "author"
+        ]
+      }
+    ],
+    "published": "1867",
+    "shelf": "wanted",
+    "context": "⚠️ 1867 est la date du livre premier ; les deux suivants sont posthumes. Édition et traduction à choisir.",
+    "added": "2026-08-30",
+    "concepts": [
+      "societe",
+      "liberte"
+    ]
+  },
+  "weil-l-enracinement": {
+    "type": "livre",
+    "title": "L'Enracinement",
+    "credits": [
+      {
+        "agent": "simone-weil",
+        "roles": [
+          "author"
+        ]
+      }
+    ],
+    "published": "1949",
+    "shelf": "wanted",
+    "context": "⚠️ posthume — écrit à Londres en 1943, publié en 1949. À recouper.",
+    "added": "2026-08-30",
+    "concepts": [
+      "societe",
+      "spiritualite",
+      "liberte"
+    ]
+  },
+  "spinoza-l-ethique": {
+    "type": "livre",
+    "title": "L'Éthique",
+    "credits": [
+      {
+        "agent": "baruch-spinoza",
+        "roles": [
+          "author"
+        ]
+      }
+    ],
+    "published": "1677",
+    "shelf": "wanted",
+    "context": "⚠️ posthume, publiée l'année de sa mort. Titre latin : Ethica, ordine geometrico demonstrata.",
+    "added": "2026-08-30",
+    "concepts": [
+      "connaissance",
+      "liberte",
+      "sens"
+    ]
+  }
+}

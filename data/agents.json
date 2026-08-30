@@ -456,5 +456,16 @@
     "kind": "person",
     "name": "Anonyme",
     "bio": "Agent conventionnel. Il porte ce qui est explicitement anonyme — un auteur qui a choisi de ne pas être nommé, un contributeur qui préfère ne pas l'être. À ne pas confondre avec un auteur INCONNU : dans ce cas l'item n'a simplement aucun crédit."
+  },
+  "platon": {
+    "kind": "person",
+    "name": "Platon",
+    "bio": "Philosophe grec. Mononyme d'usage : pas de sortName.",
+    "links": [
+      {
+        "label": "Wikipédia",
+        "url": "https://fr.wikipedia.org/wiki/Platon"
+      }
+    ]
   }
 }
