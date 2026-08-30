@@ -36,3 +36,33 @@ tête de chaque fichier de `data/` donnerait alors la validation en direct dans 
 **sans build, sans npm install** — c'est le mécanisme le moins cher et le plus rentable
 des deux. Il ne remplace pas `npm run check`, qui seul voit les références mortes et
 l'unicité par type.
+
+## Comment le site se republie
+
+Le site est le produit de **deux** dépôts. Une citation ajoutée ici doit paraître
+sans aller pousser un commit dans le moteur — d'où :
+
+```
+push sur _me (data/**)  →  repository_dispatch  →  déploiement de slashome/me
+push sur me   (main)    →  déploiement direct
+```
+
+Le moteur récupère ce contenu **en direct** (`ref: main`) au moment du build,
+alors que ce dépôt épingle une **version** du moteur dans `.engine-version`.
+L'asymétrie est voulue : le schéma doit être stable pour que les données restent
+valides, mais une citation ajoutée n'a aucune raison d'attendre un tag.
+
+### Le jeton à créer une fois
+
+`deploy-site.yml` a besoin d'un secret **`DISPATCH_TOKEN`** : l'API
+`repository_dispatch` n'accepte pas le `GITHUB_TOKEN` par défaut pour viser un
+autre dépôt.
+
+1. GitHub → Settings → Developer settings → **Fine-grained tokens** → *Generate*
+2. Portée : le seul dépôt **slashome/me**
+3. Permission : **Contents → Read and write** (c'est celle qu'exige `dispatches`)
+4. Copier la valeur, puis dans **slashome/_me** → Settings → Secrets and
+   variables → Actions → *New repository secret* → nom **`DISPATCH_TOKEN`**
+
+Sans ce secret, le workflow échoue avec un message explicite plutôt que de
+laisser croire que le site s'est mis à jour.
