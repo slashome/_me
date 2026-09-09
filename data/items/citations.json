@@ -1623,5 +1623,36 @@
     "text": "Ce n'est rien de\nmourir, c'est\naffreux de ne pas\nVivre",
     "added": "2026-08-29",
     "lang": "fr"
+  },
+  "naess-smaller-mountain-greatness": {
+    "type": "citation",
+    "title": "The smaller we come to feel ourselves…",
+    "credits": [
+      {
+        "agent": "arne-naess",
+        "roles": [
+          "author"
+        ]
+      }
+    ],
+    "text": "The smaller we come to feel ourselves compared with the mountain, the nearer we come to participating in its greatness.",
+    "context": "Fin de l'essai « Modesty and the Conquest of Mountains », paru dans The Mountain Spirit (dir. Michael Charles Tobias et Harold Drasdo, Overlook Press, 1979) — l'essai qui ouvre sur « Mountains are big. Very big. But they are also great. Very great. » ⚠️ L'édition originale n'a pas été consultée : la phrase circule aussi sous la forme « compared to the mountain », et introduite par « This way is such that… ». À vérifier sur le texte imprimé.",
+    "sources": [
+      {
+        "label": "American Alpine Journal — recension de The Mountain Spirit (atteste l'essai de Næss dans le recueil)",
+        "url": "http://publications.americanalpineclub.org/articles/12198067100/The-Mountain-Spirit"
+      },
+      {
+        "label": "Springer — « Modesty and the Conquest of Mountains », repris dans The Selected Works of Arne Naess",
+        "url": "https://link.springer.com/chapter/10.1007/978-1-4020-4519-6_118"
+      }
+    ],
+    "published": "1979",
+    "added": "2026-09-09",
+    "concepts": [
+      "ecologie",
+      "spiritualite"
+    ],
+    "lang": "en"
   }
 }

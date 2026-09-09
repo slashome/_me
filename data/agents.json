@@ -330,6 +330,22 @@
     "name": "Haruki Murakami",
     "sortName": "Murakami, Haruki"
   },
+  "arne-naess": {
+    "kind": "person",
+    "name": "Arne Næss",
+    "sortName": "Næss, Arne",
+    "born": "1912-01-27",
+    "died": "2009-01-12",
+    "gender": "m",
+    "bio": "Philosophe et alpiniste norvégien. Il forge en 1973 la distinction entre écologie « superficielle » et « profonde » (deep ecology), et a passé une partie de sa vie dans une cabane du Hallingskarvet.",
+    "wikidata": "Q335152",
+    "links": [
+      {
+        "label": "Wikipédia (fr)",
+        "url": "https://fr.wikipedia.org/wiki/Arne_N%C3%A6ss"
+      }
+    ]
+  },
   "isaac-newton": {
     "kind": "person",
     "name": "Isaac Newton",
