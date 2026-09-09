@@ -63,6 +63,26 @@ schéma incompatible** le fait — c'est ce que signale un tag majeur.
 > modèle sera stabilisé. Et il n'y a pas encore de paquet npm — la raison est dans
 > [`NOTES.md`](./NOTES.md).
 
+## Comment le site se met à jour
+
+Un merge sur `main` ici **publie**. La CI valide `data/`, puis demande au moteur de
+reconstruire le site — c'est le job `reveille-le-moteur` dans
+[`check.yml`](./.github/workflows/check.yml), qui envoie un `repository_dispatch` de type
+`content-updated` à `slashome/me`.
+
+Rien de tout ça n'est automatique par nature : le moteur vit dans un autre dépôt, et son
+déploiement n'a aucun moyen de savoir que `data/` a bougé. Sans ce job, du contenu
+valide reste invisible jusqu'au prochain push sur le moteur — ce qui est arrivé.
+
+**Ce dépôt a un secret, et un seul :** `ENGINE_DISPATCH_TOKEN`, un token qui porte
+`contents: write` sur `slashome/me`. Le `GITHUB_TOKEN` par défaut ne peut pas le
+remplacer : il est limité à ce dépôt, et déclencher un workflow ailleurs demande une
+autorisation explicite. S'il manque ou expire, la CI échoue avec un message qui le dit —
+plutôt qu'un site silencieusement figé.
+
+En cas de besoin, le déploiement reste déclenchable à la main depuis les Actions de
+`slashome/me` (`workflow_dispatch`).
+
 ## Ce qu'il y a dedans, aujourd'hui
 
 **121 citations** importées d'un export Notion, **72 agents** (68 personnes, 3
