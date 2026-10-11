@@ -74,7 +74,7 @@
       }
     ],
     "published": "1949",
-    "shelf": "wanted",
+    "shelf": "unread",
     "context": "⚠️ posthume — écrit à Londres en 1943, publié en 1949. À recouper.",
     "added": "2026-08-30",
     "concepts": [
@@ -122,6 +122,48 @@
     "concepts": [
       "guerre",
       "universalite",
+      "societe"
+    ]
+  },
+  "stiegler-la-technique-et-le-temps-1": {
+    "type": "livre",
+    "title": "La Technique et le Temps, 1. La faute d'Épiméthée",
+    "credits": [
+      {
+        "agent": "bernard-stiegler",
+        "roles": [
+          "author"
+        ]
+      }
+    ],
+    "published": "1994",
+    "shelf": "unread",
+    "context": "⚠️ tomes achetés supposés être les deux premiers : la série en compte trois, le troisième étant Le temps du cinéma et la question du mal-être (2001). Édition à confirmer.",
+    "added": "2026-10-11",
+    "concepts": [
+      "temps",
+      "connaissance",
+      "societe"
+    ]
+  },
+  "stiegler-la-technique-et-le-temps-2": {
+    "type": "livre",
+    "title": "La Technique et le Temps, 2. La désorientation",
+    "credits": [
+      {
+        "agent": "bernard-stiegler",
+        "roles": [
+          "author"
+        ]
+      }
+    ],
+    "published": "1996",
+    "shelf": "unread",
+    "context": "⚠️ édition à confirmer.",
+    "added": "2026-10-11",
+    "concepts": [
+      "temps",
+      "connaissance",
       "societe"
     ]
   }
