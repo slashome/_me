@@ -10,6 +10,7 @@
 import agentsData from './data/agents.json' with { type: 'json' };
 import conceptsData from './data/concepts.json' with { type: 'json' };
 import citationsData from './data/items/citations.json' with { type: 'json' };
+import livresData from './data/items/livres.json' with { type: 'json' };
 import aphorismesData from './data/journal/aphorismes.json' with { type: 'json' };
 import projectsData from './data/projects.json' with { type: 'json' };
 import propositionsData from './data/propositions.json' with { type: 'json' };
@@ -40,7 +41,10 @@ function withoutComment<T extends object>(record: Record<string, unknown>): Keye
 
 const agents = fromKeyed<Agent>(withoutComment<Agent>(agentsData));
 const concepts = fromKeyed<Concept>(withoutComment<Concept>(conceptsData));
-const items = fromKeyed<CollectionItem>(withoutComment<CollectionItem>(citationsData));
+const items = [
+  ...fromKeyed<CollectionItem>(withoutComment<CollectionItem>(citationsData)),
+  ...fromKeyed<CollectionItem>(withoutComment<CollectionItem>(livresData)),
+];
 const propositions = fromKeyed<CollectionItem>(withoutComment<CollectionItem>(propositionsData));
 const projects = fromKeyed<Project>(withoutComment<Project>(projectsData));
 const journal = fromKeyed<JournalEntry>(withoutComment<JournalEntry>(aphorismesData));
