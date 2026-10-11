@@ -125,9 +125,9 @@
       "societe"
     ]
   },
-  "stiegler-la-technique-et-le-temps-1": {
+  "stiegler-la-technique-et-le-temps": {
     "type": "livre",
-    "title": "La Technique et le Temps, 1. La faute d'Épiméthée",
+    "title": "La Technique et le Temps",
     "credits": [
       {
         "agent": "bernard-stiegler",
@@ -136,30 +136,9 @@
         ]
       }
     ],
-    "published": "1994",
+    "published": "2018",
     "shelf": "unread",
-    "context": "⚠️ tomes achetés supposés être les deux premiers : la série en compte trois, le troisième étant Le temps du cinéma et la question du mal-être (2001). Édition à confirmer.",
-    "added": "2026-10-11",
-    "concepts": [
-      "temps",
-      "connaissance",
-      "societe"
-    ]
-  },
-  "stiegler-la-technique-et-le-temps-2": {
-    "type": "livre",
-    "title": "La Technique et le Temps, 2. La désorientation",
-    "credits": [
-      {
-        "agent": "bernard-stiegler",
-        "roles": [
-          "author"
-        ]
-      }
-    ],
-    "published": "1996",
-    "shelf": "unread",
-    "context": "⚠️ édition à confirmer.",
+    "context": "⚠️ édition intégrale en un volume, Fayard 2018 sauf erreur. Réunit La faute d'Épiméthée (1994), La désorientation (1996) et Le temps du cinéma et la question du mal-être (2001).",
     "added": "2026-10-11",
     "concepts": [
       "temps",
