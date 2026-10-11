@@ -103,5 +103,26 @@
       "liberte",
       "sens"
     ]
+  },
+  "kant-vers-la-paix-perpetuelle": {
+    "type": "livre",
+    "title": "Vers la paix perpétuelle",
+    "credits": [
+      {
+        "agent": "emmanuel-kant",
+        "roles": [
+          "author"
+        ]
+      }
+    ],
+    "published": "1795",
+    "shelf": "wanted",
+    "context": "Titre original : Zum ewigen Frieden. Une fédération d'États libres sous un petit nombre de règles universelles.",
+    "added": "2026-10-11",
+    "concepts": [
+      "guerre",
+      "universalite",
+      "societe"
+    ]
   }
 }
