@@ -1,0 +1,30 @@
+name: Republier le site
+
+# Le site est le produit de deux dépôts : le moteur (slashome/me) et ce contenu.
+# Une citation ajoutée ici doit paraître sans qu'on aille pousser un commit
+# ailleurs — d'où cet événement envoyé au moteur, qui déclenche son déploiement.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+  workflow_dispatch:
+
+jobs:
+  notifier:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Prévenir slashome/me
+        env:
+          # Jeton à portée fine, avec la permission « Contents: write » sur
+          # slashome/me — c'est ce que réclame l'API repository_dispatch.
+          # À créer une fois et à stocker dans les secrets de CE dépôt.
+          GH_TOKEN: ${{ secrets.DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error::Le secret DISPATCH_TOKEN est absent — voir CONTRIBUTING/NOTES."
+            exit 1
+          fi
+          gh api -X POST repos/slashome/me/dispatches \
+            -f event_type=content-updated \
+            -F "client_payload[sha]=$GITHUB_SHA"
