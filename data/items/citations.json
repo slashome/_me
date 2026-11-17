@@ -2,7 +2,7 @@
   "_comment": "Importé du corpus Notion le 2026-08-29. `title` est l'incipit de la citation (la source n'avait pas de titre). `note` est volontairement vide : ce sont les mots de Florian, il ne les a pas écrits.",
   "burke-triompher-mal-n-a": {
     "type": "citation",
-    "title": "Pour triompher, le mal n’a besoin que de…",
+    "title": "The only thing necessary for the triumph…",
     "credits": [
       {
         "agent": "edmund-burke",
@@ -11,12 +11,28 @@
         ]
       }
     ],
-    "text": "Pour triompher, le mal n’a besoin que de l’inaction des gens de bien",
+    "text": "The only thing necessary for the triumph of evil is that good men should do nothing.",
+    "context": "Maxime anglaise attribuée à Edmund Burke, mais introuvable dans ses écrits : Quote Investigator note que la lettre de 1795 citée par le Bartlett ne la contient pas et que le Bartlett lui-même (16e éd.) reconnaît ne pas l’avoir retrouvée. Première attribution connue à Burke : discours de Sir R. Murray Hyslop du 5 juillet 1920 (Proceedings of the Fourth International Congregational Council, 1921), dont le texte ci-dessus reprend la formulation. Idée proche chez John Stuart Mill (discours inaugural de St Andrews, 1867) : « Bad men need nothing more to compass their ends, than that good men should look on and do nothing. » Version anonyme dès 1916 (Rev. Charles F. Aked, introduite par « it has been said »).",
+    "attribution": "misattributed",
+    "sources": [
+      {
+        "label": "Quote Investigator — « The Only Thing Necessary for the Triumph of Evil Is That Good Men Do Nothing »",
+        "url": "https://quoteinvestigator.com/2010/12/04/good-men-do/"
+      }
+    ],
+    "published": "1920",
     "added": "2026-08-29",
     "concepts": [
       "inaction"
     ],
-    "lang": "fr"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Pour triompher, le mal n’a besoin que de l’inaction des gens de bien",
+        "translatorNote": "Version française usuelle, déjà présente dans la collection (traducteur inconnu) ; fidèle au sens, plus ramassée que l’anglais."
+      }
+    ]
   },
   "valery-guerre-c-est-massacre": {
     "type": "citation",
@@ -48,6 +64,14 @@
       }
     ],
     "text": "Il n'existe que deux choses infinies, l'univers et la bêtise humaine... mais pour l'univers, je n'ai pas de certitude absolue.",
+    "context": "Aucun texte d'Einstein ne contient cette phrase. Quote Investigator a cherché son origine : la plus ancienne trace est le psychiatre Frederick (Fritz) Perls, qui l'attribue en 1947 (Ego, Hunger, and Aggression, édition de Londres) à « un grand astronome », sous la forme « Two things are infinite, as far as we know – the universe and human stupidity ». Perls ne nomme Einstein qu'en 1969 (Gestalt Therapy Verbatim), en affirmant la tenir de lui oralement. La seconde moitié (« mais pour l'univers… ») n'apparaît pas dans ces versions. Quote Investigator conclut que l'attribution à Einstein est probablement fausse.",
+    "attribution": "misattributed",
+    "sources": [
+      {
+        "label": "Quote Investigator, « Two Things Are Infinite: the Universe and Human Stupidity » (2010)",
+        "url": "https://quoteinvestigator.com/2010/05/04/universe-einstein/"
+      }
+    ],
     "added": "2026-08-29",
     "concepts": [
       "betise"
@@ -56,7 +80,7 @@
   },
   "c-est-permissivite-societe": {
     "type": "citation",
-    "title": "C'est la permissivité de la société qui incite…",
+    "title": "Criminals thrive on the indulgence of…",
     "credits": [
       {
         "agent": "ra-s-al-ghul",
@@ -65,13 +89,27 @@
         ]
       }
     ],
-    "text": "C'est la permissivité de la société qui incite les criminels à s'épanouir.",
-    "context": "Ras Al Gul dans Batman Begins",
+    "text": "Criminals thrive on the indulgence of society’s understanding.",
+    "context": "Ras Al Gul dans Batman Begins. Réplique d’Henri Ducard (Liam Neeson), qui se révèle être Ra’s al Ghul, dans Batman Begins (Christopher Nolan, 2005, scénario de Christopher Nolan et David S. Goyer), juste après « Justice. Crime cannot be tolerated. », en réponse à Bruce Wayne qui demande ce qu’il adviendra du prisonnier.",
+    "sources": [
+      {
+        "label": "Batman Begins (2005) — transcription, Scraps from the Loft",
+        "url": "https://scrapsfromtheloft.com/movies/batman-begins-transcript/"
+      }
+    ],
+    "published": "2005",
     "added": "2026-08-29",
     "concepts": [
       "societe"
     ],
-    "lang": "fr"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "C'est la permissivité de la société qui incite les criminels à s'épanouir.",
+        "translatorNote": "Version française déjà présente dans la collection ; origine (doublage ou sous-titres) non vérifiée. Plus libre que l’anglais, qui dit littéralement : « Les criminels prospèrent grâce à l’indulgence de la “compréhension” de la société »."
+      }
+    ]
   },
   "arendt-mort-l-empathie-humaine": {
     "type": "citation",
@@ -85,6 +123,18 @@
       }
     ],
     "text": "La mort de l'empathie humaine est l'un des premiers signes et le plus révélateur d'une culture sur le point de sombrer dans la barbarie.",
+    "context": "Original introuvable : aucune œuvre d'Arendt ne contient cette phrase. Jennifer Szalai (critique au New York Times, article repris par Montevideo Portal le 19 juillet 2025) écrit qu'« il n'y a aucune trace qu'Arendt ait jamais dit cela, ni rien de semblable ». Les contributeurs de Wikiquote n'ont pas trouvé de source fiable, et Roger Berkowitz (Hannah Arendt Center) juge que les citations virales de ce type sont recousues à partir de plusieurs de ses énoncés.",
+    "attribution": "disputed",
+    "sources": [
+      {
+        "label": "Jennifer Szalai, The New York Times, repris par Montevideo Portal (2025)",
+        "url": "https://www.montevideo.com.uy/Modo-saludable/Como-la-empatia-se-convirtio-en-una-amenaza-uc930568"
+      },
+      {
+        "label": "Wikiquote, page de discussion « Hannah Arendt »",
+        "url": "https://en.wikiquote.org/wiki/Talk:Hannah_Arendt"
+      }
+    ],
     "added": "2026-08-29",
     "concepts": [
       "empathie",
@@ -94,7 +144,7 @@
   },
   "arendt-trouver-place-convenable": {
     "type": "citation",
-    "title": "Pour trouver sa place convenable dans le monde…",
+    "title": "The proper intercourse with a work of art…",
     "credits": [
       {
         "agent": "hannah-arendt",
@@ -103,16 +153,35 @@
         ]
       }
     ],
-    "text": "Pour trouver sa place convenable dans le monde, l'œuvre d'art doit être soigneusement écartée du contexte des objets d'usage ordinaires.",
+    "text": "The proper intercourse with a work of art is certainly not using it; on the contrary, it must be removed carefully from the whole context of ordinary use objects to attain its proper place in the world.",
+    "context": "Hannah Arendt, The Human Condition (University of Chicago Press, 1958), chapitre IV « Work », section 23 « The Permanence of the World and the Work of Art », p. 167 de la seconde édition (1998). Le livre a été écrit et publié d'abord en anglais.",
+    "sources": [
+      {
+        "label": "Article de HannahArendt.net citant le passage (The Human Condition, p. 167)",
+        "url": "https://www.hannaharendt.net/index.php/han/article/download/592/1012?inline=1"
+      },
+      {
+        "label": "Jared Henderson, « Work | The Human Condition, Chapter 4 » (cite le passage, p. 167)",
+        "url": "https://jaredhenderson.substack.com/p/work-the-human-condition-chapter"
+      }
+    ],
+    "published": "1958",
     "added": "2026-08-29",
     "concepts": [
       "art"
     ],
-    "lang": "fr"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Le rapport qui convient à une œuvre d'art n'est certainement pas de s'en servir ; au contraire, pour trouver sa place convenable dans le monde, elle doit être soigneusement écartée de tout le contexte des objets d'usage ordinaires.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire. La phrase stockée auparavant (« Pour trouver sa place convenable dans le monde, l'œuvre d'art doit être soigneusement écartée du contexte des objets d'usage ordinaires ») ne rendait que la seconde moitié ; elle est reprise ici et complétée par le début de la phrase."
+      }
+    ]
   },
   "arendt-crise-l-autorite-l-education": {
     "type": "citation",
-    "title": "La crise de l'autorité dans l'éducation est étroitement…",
+    "title": "The crisis of authority in education is most…",
     "credits": [
       {
         "agent": "hannah-arendt",
@@ -121,16 +190,31 @@
         ]
       }
     ],
-    "text": "La crise de l'autorité dans l'éducation est étroitement liée à la crise de la tradition, c'est-à-dire à la crise de notre attitude envers tout ce qui touche au passé.",
+    "text": "The crisis of authority in education is most closely connected with the crisis of tradition, that is with the crisis in our attitude toward the realm of the past.",
+    "context": "Hannah Arendt, « The Crisis in Education », Partisan Review, vol. 25, n° 4 (automne 1958), p. 511 ; repris dans Between Past and Future (1961). L'essai est issu d'une conférence donnée en allemand à Brême en mai 1958 (« Die Krise in der Erziehung ») ; c'est le texte anglais qui a servi de base aux traductions françaises.",
+    "sources": [
+      {
+        "label": "Partisan Review, vol. 25, n° 4 (1958), p. 511 (numérisation Boston University)",
+        "url": "https://www.bu.edu/partisanreview/books/PR1958V25N4/HTML/files/assets/basic-html/page23.html"
+      }
+    ],
+    "published": "1958",
     "added": "2026-08-29",
     "concepts": [
       "education"
     ],
-    "lang": "fr"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "La crise de l'autorité dans l'éducation est étroitement liée à la crise de la tradition, c'est-à-dire à la crise de notre attitude envers tout ce qui touche au passé.",
+        "translatorNote": "Traduction française déjà stockée, fidèle à l'original ; édition d'origine non identifiée (probablement La Crise de la culture, Gallimard, d'après Between Past and Future)."
+      }
+    ]
   },
   "arendt-personne-cultivee-devrait": {
     "type": "citation",
-    "title": "Une personne cultivée devrait être : quelqu'un qui…",
+    "title": "A cultivated person ought to be: one who…",
     "credits": [
       {
         "agent": "hannah-arendt",
@@ -139,9 +223,23 @@
         ]
       }
     ],
-    "text": "Une personne cultivée devrait être : quelqu'un qui sait choisir ses compagnons parmi les hommes, les choses, les pensées, dans le présent comme dans le passé.",
+    "text": "A cultivated person ought to be: one who knows how to choose his company among men, among things, among thoughts, in the present as well as in the past.",
+    "context": "Hannah Arendt, « The Crisis in Culture », dans Between Past and Future. La phrase complète commence ainsi : « Even if all criticism of Plato is right, Plato may still be better company than his critics. At any rate, we may remember what the Romans… thought a cultivated person ought to be: … ». Le début de la phrase a été retiré du texte retenu ; la partie entre les deux (élidée par la source consultée) n'a pas été vérifiée.",
+    "sources": [
+      {
+        "label": "Hannah Arendt Center (Bard College), Amor Mundi, « Forgiving Falling Stars » (27 janvier 2014)",
+        "url": "https://hac.bard.edu/amor-mundi/forgiving-falling-stars-2014-01-27"
+      }
+    ],
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Une personne cultivée devrait être : quelqu'un qui sait choisir ses compagnons parmi les hommes, les choses, les pensées, dans le présent comme dans le passé.",
+        "translatorNote": "Traduction française déjà stockée, fidèle à l'original ; édition d'origine non identifiée."
+      }
+    ]
   },
   "arendt-guerre-restaure-droits": {
     "type": "citation",
@@ -155,12 +253,14 @@
       }
     ],
     "text": "La guerre ne restaure pas les droits, elle redéfinit les pouvoirs",
+    "context": "Original introuvable : aucune source (en français, anglais ou allemand) ne relie cette phrase à un texte d'Arendt. Recherches menées dans les études sur Arendt et les droits de l'homme (« le droit d'avoir des droits », Les Origines du totalitarisme) sans résultat. La formule semble récente et n'a pas d'équivalent anglais connu.",
+    "attribution": "disputed",
     "added": "2026-08-29",
     "lang": "fr"
   },
   "arendt-mensonges-souvent-beaucoup": {
     "type": "citation",
-    "title": "Les mensonges sont souvent beaucoup plus plausibles, plus…",
+    "title": "Lies are often much more plausible, more appealing…",
     "credits": [
       {
         "agent": "hannah-arendt",
@@ -169,13 +269,32 @@
         ]
       }
     ],
-    "text": "Les mensonges sont souvent beaucoup plus plausibles, plus attrayants pour la raison que la réalité, puisque le menteur a le grand avantage de savoir à l'avance ce que le public souhaite ou s'attend à entendre.",
+    "text": "Lies are often much more plausible, more appealing to reason, than reality, since the liar has the great advantage of knowing beforehand what the audience wishes or expects to hear.",
+    "context": "Hannah Arendt, « Lying in Politics: Reflections on the Pentagon Papers », The New York Review of Books, 18 novembre 1971 ; repris dans Crises of the Republic (Harcourt Brace Jovanovich, 1972).",
+    "sources": [
+      {
+        "label": "The New York Review of Books, « Lying in Politics » (18 novembre 1971)",
+        "url": "https://www.nybooks.com/articles/1971/11/18/lying-in-politics-reflections-on-the-pentagon-pape/"
+      },
+      {
+        "label": "The Marginalian, « Hannah Arendt on Lying in Politics » (cite le passage)",
+        "url": "https://www.themarginalian.org/2016/06/15/lying-in-politics-hannah-arendt/"
+      }
+    ],
+    "published": "1971",
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Les mensonges sont souvent beaucoup plus plausibles, plus attrayants pour la raison que la réalité, puisque le menteur a le grand avantage de savoir à l'avance ce que le public souhaite ou s'attend à entendre.",
+        "translatorNote": "Traduction française déjà stockée, fidèle à l'original ; édition d'origine non identifiée (le recueil français est Du mensonge à la violence)."
+      }
+    ]
   },
   "arendt-pouvoir-total-peut": {
     "type": "citation",
-    "title": "Le pouvoir total ne peut être achevé et…",
+    "title": "Total power can be achieved and safeguarded only…",
     "credits": [
       {
         "agent": "hannah-arendt",
@@ -184,13 +303,28 @@
         ]
       }
     ],
-    "text": "Le pouvoir total ne peut être achevé et préservé que dans un monde de réflexes conditionnés, de marionnettes ne présentant pas la moindre trace de spontanéité. L'homme ne peut être pleinement dominé qu'à condition de devenir un spécimen de l'espèce animale homme.",
+    "text": "Total power can be achieved and safeguarded only in a world of conditioned reflexes, of marionettes without the slightest trace of spontaneity. Precisely because man's resources are so great, he can be fully dominated only when he becomes a specimen of the animal-species man.",
+    "context": "Hannah Arendt, The Origins of Totalitarianism (1951), dernier chapitre de la troisième partie, « Totalitarianism in Power », section sur la domination totale ; vers la p. 457 de la seconde édition augmentée (Meridian Books, 1958). Le livre a été écrit et publié d'abord en anglais.",
+    "sources": [
+      {
+        "label": "The Origins of Totalitarianism, Meridian Books, 1958 (PDF)",
+        "url": "https://public.3.basecamp.com/p/fdjTwJZwP4HCUV3gZtWkiQqY/attachments/0f9d3f9c-a6a9-11ee-b17c-7a45ee659b9e/download/origins-totalitarianism.pdf"
+      }
+    ],
+    "published": "1951",
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Le pouvoir total ne peut être achevé et préservé que dans un monde de réflexes conditionnés, de marionettes ne présentant pas la moindre trace de spontanéité. C'est précisément parce que les ressources de l'homme sont si grandes qu'il ne peut être pleinement dominé qu'à condition de devenir un spécimen de l'espèce animale homme.",
+        "translatorNote": "Reprend la traduction déjà stockée. Celle-ci omettait le début de la seconde phrase (« Precisely because man's resources are so great ») ; Claude l'a rétabli : à relire."
+      }
+    ]
   },
   "arendt-c-est-justement-preserver": {
     "type": "citation",
-    "title": "C'est justement pour préserver ce qui est neuf…",
+    "title": "Exactly for the sake of what is new…",
     "credits": [
       {
         "agent": "hannah-arendt",
@@ -199,9 +333,29 @@
         ]
       }
     ],
-    "text": "C'est justement pour préserver ce qui est neuf et révolutionnaire dans chaque enfant que l'éducation doit être conservatrice, c'est-à-dire assurer ‘la continuité du monde’ : elle doit protéger cette nouveauté et l’introduire comme un ferment nouveau dans un monde déjà vieux.",
+    "text": "Exactly for the sake of what is new and revolutionary in every child, education must be conservative; it must preserve this newness and introduce it as a new thing into an old world, which, however revolutionary its actions may be, is always, from the standpoint of the next generation, superannuated and close to destruction.",
+    "context": "Hannah Arendt, « The Crisis in Education », Partisan Review, vol. 25, n° 4 (automne 1958), p. 510 ; repris dans Between Past and Future (1961). Issu d'une conférence donnée en allemand à Brême en 1958, où Arendt emploie « bewahren » (préserver). La version française qui circule ajoute une incise absente de l'original.",
+    "attribution": "altered",
+    "sources": [
+      {
+        "label": "Partisan Review, vol. 25, n° 4 (1958), p. 510 (numérisation Boston University)",
+        "url": "https://www.bu.edu/partisanreview/books/PR1958V25N4/HTML/files/assets/basic-html/page22.html"
+      },
+      {
+        "label": "Hannah Arendt Center (Bard College), Amor Mundi, « For the Sake of What is New » (2013)",
+        "url": "https://hac.bard.edu/amor-mundi/for-the-sake-of-what-is-new-2013-01-28"
+      }
+    ],
+    "published": "1958",
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "C'est justement pour préserver ce qui est neuf et révolutionnaire dans chaque enfant que l'éducation doit être conservatrice, c'est-à-dire assurer ‘la continuité du monde’ : elle doit protéger cette nouveauté et l’introduire comme un ferment nouveau dans un monde déjà vieux.",
+        "translatorNote": "Traduction française déjà stockée, mais infidèle : l'incise « c'est-à-dire assurer ‘la continuité du monde’ » n'existe pas dans l'original, « comme un ferment nouveau » remplace « as a new thing », et la fin de la phrase (un monde qui, si révolutionnaire soit-il, est toujours, du point de vue de la génération suivante, suranné et proche de sa ruine) est omise."
+      }
+    ]
   },
   "bill-secret-c-est-l-amour": {
     "type": "citation",
@@ -221,7 +375,7 @@
   },
   "roosevelt-grands-etats-d-esprit": {
     "type": "citation",
-    "title": "Les grands états d'esprit discutent des idées, les…",
+    "title": "Great minds discuss ideas; average minds…",
     "credits": [
       {
         "agent": "eleanor-roosevelt",
@@ -230,9 +384,24 @@
         ]
       }
     ],
-    "text": "Les grands états d'esprit discutent des idées, les ordinaires discutent des événements et les petites personnes discutent",
+    "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+    "context": "Attribuée à Eleanor Roosevelt à partir de 1987 (Hutchinson News), sans aucune référence ; Quote Investigator juge ce lien infondé. La maxime descend d’une remarque de l’historien Henry Thomas Buckle (rapportée en 1901 dans l’autobiographie de Charles Stewart : personnes / choses / idées) ; la variante « events » apparaît anonymement dans le New York Times en 1931, puis chez Hyman Rickover (1959), qui la donnait à un « unknown sage ».",
+    "attribution": "misattributed",
+    "sources": [
+      {
+        "label": "Quote Investigator — « Great Minds Discuss Ideas; Average Minds Discuss Events; Small Minds Discuss People »",
+        "url": "https://quoteinvestigator.com/2014/11/18/great-minds/"
+      }
+    ],
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Les grands esprits discutent des idées, les esprits moyens discutent des événements, les petits esprits discutent des gens.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire. Elle remplace la version stockée (« Les grands états d'esprit discutent des idées, les ordinaires discutent des événements et les petites personnes discutent »), qui était tronquée (le dernier complément manquait) et traduisait « minds » par « états d'esprit » et « small minds » par « petites personnes »."
+      }
+    ]
   },
   "kepler-prefere-critiques-severes": {
     "type": "citation",
@@ -245,7 +414,9 @@
         ]
       }
     ],
-    "text": "Je préfère les critiques sévères d'une personne intelligente au soutien aveugle des masses",
+    "text": "Je préfère les critiques sévères d'une personne intelligente au soutien aveugle des masses",
+    "context": "Original introuvable : aucune source ne relie cette phrase à un écrit latin ou allemand de Kepler (œuvres, correspondance). Elle ne circule que sur des sites de citations, sans référence.",
+    "attribution": "disputed",
     "added": "2026-08-29",
     "lang": "fr"
   },
@@ -261,8 +432,22 @@
       }
     ],
     "text": "Les temps difficiles créent des hommes forts, les hommes forts créent des moments bons, les bons moments créent des hommes faibles, les hommes faibles créent des temps difficiles",
-    "context": "Citation modifiee avec le temps",
-    "attribution": "altered",
+    "context": "Citation modifiee avec le temps. La formule en quatre temps est moderne : elle est connue par le roman Those Who Remain de G. Michael Hopf (2016), qui dit l'avoir écrite en 2015 (« Hard times create strong men. Strong men create good times. Good times create weak men. And, weak men create hard times. »), avec des précurseurs américains (« Hard times make strong men », Walter Williams, 1932). Rien de tel chez Hérodote. Le passage le plus proche est la fin des Histoires (IX, 122, 3), où Cyrus refuse que les Perses quittent leur pays rude : « φιλέειν γὰρ ἐκ τῶν μαλακῶν χώρων μαλακοὺς γίνεσθαι· οὐ γὰρ τι τῆς αὐτῆς γῆς εἶναι καρπόν τε θωμαστὸν φύειν καὶ ἄνδρας ἀγαθοὺς τὰ πολέμια » — trad. Larcher : « les pays les plus délicieux ne produisent ordinairement que des hommes mous et efféminés, et la même terre qui porte les plus beaux fruits n'engendre point des hommes belliqueux ». L'idée de cycle n'y figure pas.",
+    "attribution": "misattributed",
+    "sources": [
+      {
+        "label": "Barry Popik, « Hard times create strong men… »",
+        "url": "https://barrypopik.com/blog/hard_times_create_strong_men"
+      },
+      {
+        "label": "Hérodote, Histoires, IX, 122 (texte grec, éd. Godley) — Perseus",
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0125:book=9:chapter=122:section=3"
+      },
+      {
+        "label": "Hérodote, Histoire, trad. Larcher (1850), livre IX — Wikisource",
+        "url": "https://fr.wikisource.org/wiki/Histoire_(H%C3%A9rodote)/Trad._Larcher,_1850/Livre_IX"
+      }
+    ],
     "added": "2026-08-29",
     "lang": "fr"
   },
@@ -317,7 +502,18 @@
       }
     ],
     "text": "Que la vie en vaut la peine",
-    "context": "Récité par Jean D’Ormesson à la télévision",
+    "context": "Récité par Jean D’Ormesson à la télévision. « Que la vie en vaut la peine » est le titre d’un poème de Louis Aragon paru dans Les Yeux et la mémoire (1954, chant II), qui commence par « C'est une chose étrange à la fin que le monde » et contient le vers « Je dirai malgré tout que cette vie fut belle » ; la formule du titre ne figure pas dans le corps du poème. Jean d’Ormesson en a tiré les titres de plusieurs livres (C’est une chose étrange à la fin que le monde, 2010 ; Je dirai malgré tout que cette vie fut belle, 2016). L’émission où il le récite n’a pas été identifiée.",
+    "sources": [
+      {
+        "label": "Louis Aragon, « Que la vie en vaut la peine », Les Yeux et la mémoire (1954) — rimes.fr",
+        "url": "https://www.rimes.fr/poemes/que-la-vie-en-vaut-la-peine"
+      },
+      {
+        "label": "Aleteia — Jean d’Ormesson, « Je dirai malgré tout que cette vie fut belle »",
+        "url": "https://fr.aleteia.org/2017/12/26/jean-dormesson-je-dirai-malgre-tout-que-cette-vie-fut-belle/"
+      }
+    ],
+    "published": "1954",
     "added": "2026-08-29",
     "concepts": [
       "vie"
@@ -335,8 +531,15 @@
         ]
       }
     ],
-    "text": "La premiere victime des guerres c’est la vérite.",
-    "context": "Dit par Lambda le 18 mai 2024 a 15:15",
+    "text": "La première victime des guerres, c’est la vérité.",
+    "context": "Dit par Lambda le 18 mai 2024 a 15:15. Original non retrouvé chez Eschyle : Quote Investigator juge l'attribution sans fondement. Le plus ancien emploi connu est celui d'Ethel Annakin (Mrs Philip Snowden) dans un discours à San Diego en juillet 1915 (« truth is the first casualty of warfare »), qui le présentait déjà comme un mot anonyme ; il est souvent prêté au sénateur Hiram Johnson (1917) sans preuve. Le rapprochement avec Eschyle viendrait d'un fragment sans rapport direct (« Dieu ne se détourne pas d'une juste tromperie ») et apparaît vers 1950-1965.",
+    "attribution": "misattributed",
+    "sources": [
+      {
+        "label": "Quote Investigator, « Truth Is the First Casualty in War » (2020)",
+        "url": "https://quoteinvestigator.com/2020/04/11/casualty/"
+      }
+    ],
     "added": "2026-08-29",
     "lang": "fr"
   },
@@ -393,9 +596,23 @@
       }
     ],
     "text": "You don’t need a formal conspiracy when interests converge. These people went to the same universities and fraternities, they’re on the same boards of directors, they’re on the same country clubs, they have like-interests. They don’t need to call a meeting; they know what is good for THEM, and they are getting it. And there used to be seven oil companies. There are now three. It will soon be two. The things that matter in this country have been reduced in choice: there are two political parties, there are a handful of insurance companies, there are six or seven information centers. But if you want a bagel there are 23 flavors because you have the ILLUSION, you have the ILLUSION of choice. You don’t get the real important choices. No freedom of choice.",
-    "context": "• “Politically Incorrect with Bill Maher”. Episode aired May 16, 2001. Guest panel: George Carlin, Horace Cooper (to whom Carlin was responding), Julie Warner, Robert Shapiro.",
+    "context": "• “Politically Incorrect with Bill Maher”. Episode aired May 16, 2001. Guest panel: George Carlin, Horace Cooper (to whom Carlin was responding), Julie Warner, Robert Shapiro.\n\nRéplique improvisée de Carlin sur le plateau de l’émission de Bill Maher, diffusée le 16 mai 2001, en réponse à Horace Cooper. Selon georgecarlin.net, c’est une variation d’un passage de son album Toledo Window Box (1974) ; le mot « formal » est essentiel : Carlin ne parle pas d’un complot secret, mais d’intérêts qui convergent. Aucune transcription officielle de l’émission n’a été trouvée : le texte suit le relevé de georgecarlin.net.",
+    "sources": [
+      {
+        "label": "georgecarlin.net — citations tirées d’interviews et d’apparitions TV (Politically Incorrect, 16 mai 2001)",
+        "url": "https://georgecarlin.net/quotes/tvandinterviewquotes.html"
+      }
+    ],
+    "published": "2001",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Pas besoin d’une conspiration en bonne et due forme quand les intérêts convergent. Ces gens-là sont passés par les mêmes universités et les mêmes fraternités, ils siègent dans les mêmes conseils d’administration, ils fréquentent les mêmes country clubs, ils ont les mêmes intérêts. Ils n’ont pas besoin de se réunir : ils savent ce qui est bon pour EUX, et ils l’obtiennent. Avant, il y avait sept compagnies pétrolières. Il n’en reste que trois. Bientôt, il n’en restera que deux. Sur tout ce qui compte dans ce pays, le choix s’est réduit : il y a deux partis politiques, une poignée de compagnies d’assurance, six ou sept sources d’information. Mais si vous voulez un bagel, vous avez 23 parfums, parce qu’on vous donne l’ILLUSION, l’ILLUSION du choix. Les choix vraiment importants, vous ne les avez pas. Aucune liberté de choix.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire. « information centers » est rendu par « sources d’information » (Carlin parle des grands groupes de médias)."
+      }
+    ]
   },
   "cousteau-m-a-souvent-pose": {
     "type": "citation",
@@ -448,10 +665,28 @@
         ]
       }
     ],
-    "text": "Give a man a gun and he can rob a bank, give a man a bank and he can rob the world.",
-    "context": "Tyrell Wellick dans la série Mr. Robot",
+    "text": "Give a man a gun and he can rob a bank, but give a man a bank, and he can rob the world.",
+    "context": "Tyrell Wellick dans la série Mr. Robot\n\nRéplique de Tyrell Wellick dans l’épisode 2 de la saison 1, « eps1.1_ones-and-zer0es.mpeg » (2015). La formule circulait déjà sur Twitter fin 2011, sans auteur établi (Kottke, Ritholtz) : la série la reprend plus qu’elle ne l’invente.",
+    "sources": [
+      {
+        "label": "Wikiquote — Mr. Robot, saison 1, eps1.1_ones-and-zer0es.mpeg",
+        "url": "https://en.wikiquote.org/wiki/Mr._Robot"
+      },
+      {
+        "label": "Kottke.org — « Give a man a bank and he can rob the world » (2011, premières occurrences sur Twitter)",
+        "url": "https://kottke.org/11/12/give-a-man-a-bank-and-he-can-rob-the-world"
+      }
+    ],
+    "published": "2015",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Donne une arme à un homme et il pourra braquer une banque ; mais donne-lui une banque, et il pourra braquer le monde.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire. « braquer » est répété pour garder le parallélisme de « rob »."
+      }
+    ]
   },
   "reeves-l-homme-fou-adore": {
     "type": "citation",
@@ -485,7 +720,7 @@
   },
   "duplantier-the-roots-deep": {
     "type": "citation",
-    "title": "The roots so deep and the head so…",
+    "title": "Roots so deep, head so high",
     "credits": [
       {
         "agent": "joel-duplantier",
@@ -494,13 +729,31 @@
         ]
       }
     ],
-    "text": "The roots so deep and the head so high",
-    "context": "Song Love from Gojira band",
+    "text": "Roots so deep, head so high",
+    "context": "Song Love from Gojira band\n\nParoles de « Love », 12e titre de Terra Incognita, premier album studio de Gojira (2001). Le groupe est français, mais Joe Duplantier écrit ses textes en anglais : l’anglais est bien la langue originale. Le relevé des paroles (Metal Kingdom) donne « Roots so deep, head so high », sans « The » ni « and the ».",
+    "sources": [
+      {
+        "label": "Metal Kingdom — paroles de « Love » (Gojira, Terra Incognita)",
+        "url": "https://www.metalkingdom.net/lyrics-song/gojira-love-12614"
+      },
+      {
+        "label": "Wikipedia — Terra Incognita (album de Gojira)",
+        "url": "https://en.wikipedia.org/wiki/Terra_Incognita_(Gojira_album)"
+      }
+    ],
+    "published": "2001",
     "added": "2026-08-29",
     "concepts": [
       "spiritualite"
     ],
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Les racines si profondes, la tête si haute",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "curie-vie-rien-craindre": {
     "type": "citation",
@@ -514,6 +767,18 @@
       }
     ],
     "text": "Dans la vie rien est à craindre, tout est à comprendre",
+    "context": "Original non retrouvé : aucun écrit de Marie Curie ne contient cette phrase. La plus ancienne trace signalée est française, dans Laval médical (1951, vol. 16, p. 569), sous la forme « On ne doit rien craindre dans la vie — il suffit de comprendre », rapportée à l’époque où Marie Curie apprit sa maladie (source citée par Today in Science History, non consultée directement). Glenn T. Seaborg la cite en anglais en 1968 (« Nothing in life is to be feared, it is only to be understood », Bulletin of the Atomic Scientists, janv. 1968, p. 42) ; la phrase qui suit souvent (« Now is the time to understand more, so that we may fear less ») serait de Seaborg. Recherches : Wikiquote anglais (citée seulement d’après un livre de 2006), Today in Science History, sites de citations français sans référence. La forme stockée (« rien est à craindre ») n’est attestée dans aucune source ancienne.",
+    "attribution": "disputed",
+    "sources": [
+      {
+        "label": "Today in Science History — Marie Curie Quotes",
+        "url": "https://todayinsci.com/C/Curie_Marie/CurieMarie-Quotations.htm"
+      },
+      {
+        "label": "Wikiquote (en) — Marie Curie",
+        "url": "https://en.wikiquote.org/wiki/Marie_Curie"
+      }
+    ],
     "added": "2026-08-29",
     "concepts": [
       "connaissance"
@@ -532,8 +797,23 @@
       }
     ],
     "text": "Greatness is not a measure of how great you are but how great others came to be because of you.",
+    "context": "Source primaire non retrouvée. Attribuée à Cus D’Amato, l’entraîneur de Mike Tyson, par les sites de citations (AZ Quotes, Everyday Power…) sans livre, interview ni date. La plus ancienne occurrence repérée est l’épigraphe d’un article de Bleacher Report (2009), sans source. Cherché : livres sur D’Amato, sites de citations, presse boxe.",
+    "attribution": "disputed",
+    "sources": [
+      {
+        "label": "Bleacher Report — « The Lives of Great Men: Cus D’Amato » (2009, épigraphe sans source)",
+        "url": "https://bleacherreport.com/articles/129001-the-lives-of-great-men-cus-damato-the-teacher-that-he-is"
+      }
+    ],
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "La grandeur ne se mesure pas à votre propre grandeur, mais à celle que d’autres ont atteinte grâce à vous.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "d-amato-fear-the-greatest": {
     "type": "citation",
@@ -547,11 +827,30 @@
       }
     ],
     "text": "Fear is the greatest obstacle to learning. But fear is your best friend. Fear is like fire. If you learn to control it, you let it work for you. If you don’t learn to control it, it’ll destroy you and everything around you.",
+    "context": "Source primaire non consultée. Goodreads et un article du Sarawak Tribune rattachent ce passage (dans une version plus longue) à l’autobiographie de Mike Tyson, Undisputed Truth (2013), où il est présenté comme les mots de Tyson, pas explicitement comme une citation de D’Amato. L’idée « la peur est comme le feu » est en revanche bien la doctrine de Cus D’Amato, que Tyson et Teddy Atlas rapportent souvent. Il faudrait vérifier dans le livre qui parle (Tyson qui cite Cus, ou Tyson seul).",
+    "attribution": "disputed",
+    "sources": [
+      {
+        "label": "Goodreads — citation rattachée à Undisputed Truth (Mike Tyson)",
+        "url": "https://www.goodreads.com/quotes/1195080-fear-is-the-greatest-obstacle-to-learning-but-fear-is"
+      },
+      {
+        "label": "Sarawak Tribune — recension de Undisputed Truth",
+        "url": "https://www.sarawaktribune.com/?p=335548"
+      }
+    ],
     "added": "2026-08-29",
     "concepts": [
       "peur"
     ],
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "La peur est le plus grand obstacle à l’apprentissage. Mais la peur est ta meilleure amie. La peur, c’est comme le feu. Si tu apprends à la maîtriser, tu la fais travailler pour toi. Si tu n’apprends pas à la maîtriser, elle te détruira, toi et tout ce qui t’entoure.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "einstein-all-religions-arts": {
     "type": "citation",
@@ -564,9 +863,24 @@
         ]
       }
     ],
-    "text": "All religions, arts and sciences are branches of the same tree. All these aspirations are directed toward ennobling man's life, lifting it from the sphere of mere physical existence and leading the individual towards freedom.",
+    "text": "All religions, arts and sciences are branches of the same tree. All these aspirations are directed toward ennobling man's life, lifting it from the sphere of mere physical existence and leading the individual toward freedom.",
+    "context": "Albert Einstein, « Moral Decay » (1937), premières phrases ; publié dans Out of My Later Years (1950). Le texte stocké portait « towards », l'édition donne « toward ». Une éventuelle version allemande antérieure n'a pas été retrouvée.",
+    "sources": [
+      {
+        "label": "Out of My Later Years, « Moral Decay » (texte en ligne, erenow)",
+        "url": "https://erenow.org/biographies/out-of-my-later-years/1.php"
+      }
+    ],
+    "published": "1950",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Toutes les religions, les arts et les sciences sont les branches d'un même arbre. Toutes ces aspirations tendent à ennoblir la vie de l'homme, à l'élever au-dessus de la sphère de l'existence purement physique et à conduire l'individu vers la liberté.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "ngannou-l-echec-c-est-reussir": {
     "type": "citation",
@@ -580,6 +894,18 @@
       }
     ],
     "text": "L’échec c’est pas de ne pas réussir, l’échec c’est de ne pas entreprendre.",
+    "context": "Propos tenus en français par Francis Ngannou en 2023, avant son combat de boxe contre Tyson Fury (Riyad, 28 octobre 2023). La presse camerounaise les rapporte sous une forme plus longue : « L’échec, ce n’est pas de ne pas réussir, l’échec c’est de ne pas entreprendre, c’est de ne pas aller poursuivre son rêve » (237online, 13 juillet 2023 ; Cameroon Tribune, 27 octobre 2023, qui parle d’un « média international » sans le nommer ; Cameroun24 parle de sa « page officielle »). L’interview ou la publication d’origine n’a pas été identifiée.",
+    "sources": [
+      {
+        "label": "237online — « Je n’ai pas peur d’échouer, j’ai peur de ne pas essayer » (13 juillet 2023)",
+        "url": "https://www.237online.com/je-nai-pas-peur-dechouer-jai-peur-de-ne-pas-essayer-francis-ngannou/"
+      },
+      {
+        "label": "Cameroon Tribune — Francis Ngannou : qui ne risque rien… (27 octobre 2023)",
+        "url": "https://cameroon-tribune.cm/article.html/61121/fr.html/details_2"
+      }
+    ],
+    "published": "2023",
     "added": "2026-08-29",
     "concepts": [
       "reussite"
@@ -588,7 +914,7 @@
   },
   "ngannou-zero-chance-n-existe": {
     "type": "citation",
-    "title": "Zéro chance ca n’existe pas",
+    "title": "There’s not a fight on Earth that…",
     "credits": [
       {
         "agent": "francis-ngannou",
@@ -597,13 +923,32 @@
         ]
       }
     ],
-    "text": "Zéro chance ca n’existe pas",
+    "text": "There’s not a fight on Earth that I have zero chance. That element of zero chance doesn’t exist.",
+    "context": "Dit en anglais par Francis Ngannou dans le JRE MMA Show #160 (podcast de Joe Rogan, 23 juillet 2024), en réponse à ceux qui lui donnaient « zéro chance » contre Tyson Fury parce qu’il n’était pas boxeur. Il est possible que Ngannou ait dit la même chose en français ailleurs : aucune source française n’a été trouvée.",
+    "sources": [
+      {
+        "label": "JRE MMA Show #160 with Francis Ngannou — transcription (rosetta.to)",
+        "url": "https://rosetta.to/u/joerogan/jre-mma-show-160-with-francis-ngannou"
+      },
+      {
+        "label": "BJPenn.com — Former UFC star Francis Ngannou defends his professional boxing career",
+        "url": "https://bjpenn.com/mma-news/francis-ngannou/former-ufc-star-francis-ngannou-defends-his-professional-boxing-career"
+      }
+    ],
+    "published": "2024",
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Zéro chance, ça n’existe pas",
+        "translatorNote": "Version française condensée déjà présente dans la collection (« ca » corrigé en « ça ») ; elle ne garde que la seconde phrase. Traduction complète : « Il n’existe pas un combat sur Terre où j’aurais zéro chance. Cette notion de zéro chance n’existe pas. »"
+      }
+    ]
   },
   "tyson-they-all-have": {
     "type": "citation",
-    "title": "They all have a plan until they get…",
+    "title": "Everybody has plans until they get hit…",
     "credits": [
       {
         "agent": "mike-tyson",
@@ -612,9 +957,24 @@
         ]
       }
     ],
-    "text": "They all have a plan until they get hit in the head",
+    "text": "Everybody has plans until they get hit for the first time.",
+    "context": "Mike Tyson en août 1987, avant son combat contre Tyrell Biggs, qui avait annoncé avoir un plan pour le battre (dépêche Associated Press, reprise le 19 août 1987 dans l’Oroville Mercury-Register). Tyson l’a redite sous plusieurs formes (« Everybody has a plan until they get hit », 1987, 2012). La version « punched in the mouth » n’apparaît qu’en 2004 ; aucune version « hit in the head » n’a été trouvée : le texte stocké auparavant (« They all have a plan until they get hit in the head ») était une variante de mémoire.",
+    "sources": [
+      {
+        "label": "Quote Investigator — « Everybody Has Plans Until They Get Hit for the First Time » (2021)",
+        "url": "https://quoteinvestigator.com/2021/08/25/plans-hit/"
+      }
+    ],
+    "published": "1987",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Tout le monde a des plans, jusqu’à ce qu’il prenne le premier coup.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "fontaine-solution-nos-problemes": {
     "type": "citation",
@@ -639,7 +999,7 @@
   },
   "newton-what-descartes-did": {
     "type": "citation",
-    "title": "What Descartes did was a good step. You…",
+    "title": "What Des-Cartes did was a good step. You…",
     "credits": [
       {
         "agent": "isaac-newton",
@@ -648,9 +1008,28 @@
         ]
       }
     ],
-    "text": "What Descartes did was a good step. You have added much several ways, & especially in taking the colours of thin plates into philosophical consideration. If I have seen further it is by standing on the shoulders of Giants.",
+    "text": "What Des-Cartes did was a good step. You have added much several ways, & especially in taking the colours of thin plates into philosophical consideration. If I have seen further it is by standing on the sholders of Giants.",
+    "context": "Lettre d’Isaac Newton à Robert Hooke, datée du 5 février 1675 (calendrier julien, soit le 15 février 1676 dans notre calendrier). Réponse conciliante à une lettre de Hooke dans leur querelle sur l’optique. L’original est conservé à la Historical Society of Pennsylvania ; le texte garde l’orthographe de Newton (« Des-Cartes », « sholders »).",
+    "sources": [
+      {
+        "label": "Historical Society of Pennsylvania — lettre de Newton à Hooke, 1675 (fac-similé)",
+        "url": "https://digitallibrary.hsp.org/Detail/objects/9792"
+      },
+      {
+        "label": "The Marginalian — « Standing on the Shoulders of Giants » (transcription)",
+        "url": "https://www.themarginalian.org/2016/02/16/newton-standing-on-the-shoulders-of-giants/"
+      }
+    ],
+    "published": "1676",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Ce qu’a fait Descartes était un pas important. Vous y avez beaucoup ajouté, de plusieurs façons, et en particulier en soumettant à l’examen philosophique les couleurs des lames minces. Si j’ai vu plus loin, c’est en me tenant sur les épaules de géants.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire. « philosophical » renvoie à la philosophie naturelle, c’est-à-dire à la science ; « thin plates » désigne les lames minces (films transparents) étudiées par Hooke."
+      }
+    ]
   },
   "stiegler-crois-beaute-monde": {
     "type": "citation",
@@ -669,7 +1048,7 @@
   },
   "nkrumah-divises-sommes-faibles": {
     "type": "citation",
-    "title": "Divisés nous sommes faibles. Unie, l’Afrique pourrait devenir…",
+    "title": "Divided we are weak; united, Africa could…",
     "credits": [
       {
         "agent": "kwame-nkrumah",
@@ -678,13 +1057,32 @@
         ]
       }
     ],
-    "text": "Divisés nous sommes faibles. Unie, l’Afrique pourrait devenir, et pour de bon, l’une des plus grandes forces de monde. Dirigée pour le bien de toute l’Humanité.",
+    "text": "Divided we are weak; united, Africa could become one of the greatest forces for good in the world.",
+    "context": "Kwame Nkrumah, préface (« Introduction ») de I Speak of Freedom: A Statement of African Ideology, Londres, William Heinemann, 1961, p. xi-xiv ; la phrase précédente est « It is clear that we must find an African solution to our problems, and that this can only be found in African unity. »",
+    "sources": [
+      {
+        "label": "Kwame Nkrumah, I Speak of Freedom (1961) — marxists.org",
+        "url": "https://www.marxists.org/subject/africa/nkrumah/1961/speak-freedom.htm"
+      },
+      {
+        "label": "Internet Modern History Sourcebook (Fordham) — Kwame Nkrumah: I Speak of Freedom, 1961",
+        "url": "https://sourcebooks.web.fordham.edu/mod/1961nkrumah.asp"
+      }
+    ],
+    "published": "1961",
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Divisés nous sommes faibles. Unie, l’Afrique pourrait devenir, et pour de bon, l’une des plus grandes forces de monde. Dirigée pour le bien de toute l’Humanité.",
+        "translatorNote": "Version française déjà présente dans la collection ; elle s’écarte de l’original : « forces for good in the world » (« forces du bien dans le monde ») y est éclaté en « et pour de bon » et en une phrase ajoutée (« Dirigée pour le bien de toute l’Humanité »), absente de l’anglais. Traduction fidèle : « Divisés, nous sommes faibles ; unie, l’Afrique pourrait devenir l’une des plus grandes forces du bien dans le monde. »"
+      }
+    ]
   },
   "benjamin-l-humanite-devenue-assez": {
     "type": "citation",
-    "title": "L'humanité est devenue assez étrangère à elle-même pour…",
+    "title": "Ihre Selbstentfremdung hat jenen Grad erreicht…",
     "credits": [
       {
         "agent": "walter-benjamin",
@@ -693,9 +1091,23 @@
         ]
       }
     ],
-    "text": "L'humanité est devenue assez étrangère à elle-même pour réussir à vivre sa propre destruction comme une jouissance esthétique de premier ordre.",
+    "text": "Ihre Selbstentfremdung hat jenen Grad erreicht, der sie ihre eigene Vernichtung als ästhetischen Genuß ersten Ranges erleben läßt.",
+    "context": "Walter Benjamin, « Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit », Nachwort (dernier paragraphe). La phrase précédente pose le sujet : « Die Menschheit, die einst bei Homer ein Schauobjekt für die olympischen Götter war, ist es nun für sich selbst geworden. » L'essai a d'abord paru en 1936 dans une traduction française (Zeitschrift für Sozialforschung, vol. 5) ; le texte allemand cité est celui de l'édition Suhrkamp (2003).",
+    "sources": [
+      {
+        "label": "Walter Benjamin, Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit, Suhrkamp 2003 (PDF lernhelfer.de)",
+        "url": "https://www.lernhelfer.de/sites/default/files/lexicon/pdf/BWS-DEU2-0804-02.pdf"
+      }
+    ],
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "de",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "L'humanité est devenue assez étrangère à elle-même pour réussir à vivre sa propre destruction comme une jouissance esthétique de premier ordre.",
+        "translatorNote": "Traduction française déjà stockée, fidèle ; elle remplace « Ihre » (son, c'est-à-dire de l'humanité, sujet de la phrase précédente) par « L'humanité ». Édition d'origine non identifiée."
+      }
+    ]
   },
   "camus-democratie-n-est-loi": {
     "type": "citation",
@@ -724,6 +1136,14 @@
       }
     ],
     "text": "Le détachement ne signifie pas que vous ne devez rien posséder. Mais que rien ne doit vous posséder.",
+    "context": "Original non retrouvé. La forme arabe qui circule (« ليس الزهد أن لا تملك شيئاً، بل الزهد ألا يملكك شيء ») n'a été retrouvée ni dans le Nahj al-Balagha ni dans une autre source ancienne attribuée à Ali. Interrogé sur son authenticité, Al-Islam.org ne donne aucune référence à Ali et renvoie seulement à une parole proche du soufi Abu al-Husayn al-Nuri (m. 907), rapportée par al-Hujwiri (Kashf al-Mahjub) : « Le soufi est celui qui ne possède rien et n'est possédé par rien. »",
+    "attribution": "disputed",
+    "sources": [
+      {
+        "label": "Al-Islam.org, question sur l'authenticité de la parole (réponse de Rebecca Masterton)",
+        "url": "https://al-islam.org/node/99021"
+      }
+    ],
     "added": "2026-08-29",
     "lang": "fr"
   },
@@ -738,13 +1158,32 @@
         ]
       }
     ],
-    "text": "All those moments will be lost in time like tears in rain. Time to die.",
+    "text": "All those moments will be lost in time, like tears in rain. Time to die.",
+    "context": "Fin du monologue de Roy Batty (Rutger Hauer) dans Blade Runner (Ridley Scott, 1982). Le script de David Peoples prévoyait un discours plus long ; Hauer l’a coupé la veille du tournage et a ajouté lui-même la phrase « All those moments will be lost in time, like tears in rain » (autobiographie All Those Moments, 2007 ; documentaire Dangerous Days).",
+    "sources": [
+      {
+        "label": "Wikipedia — Tears in rain monologue",
+        "url": "https://en.wikipedia.org/wiki/Tears_in_rain_monologue"
+      }
+    ],
+    "published": "1982",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Tous ces moments se perdront dans l’oubli, comme les larmes dans la pluie. Il est temps de mourir.",
+        "translatorNote": "Version française du film telle que relevée par citation-celebre.com ; la source ne précise pas s’il s’agit du doublage (Roy Batty est doublé par Hervé Bellon) ou des sous-titres.",
+        "source": {
+          "label": "citation-celebre.com — réplique de Roy Batty, Blade Runner",
+          "url": "https://www.citation-celebre.com/citations/84727"
+        }
+      }
+    ]
   },
   "einstein-hundred-times-day": {
     "type": "citation",
-    "title": "A hundred times a day, I remind myself…",
+    "title": "A hundred times every day I remind myself…",
     "credits": [
       {
         "agent": "albert-einstein",
@@ -753,9 +1192,24 @@
         ]
       }
     ],
-    "text": "A hundred times a day, I remind myself that my inner and outer lives are based on the labors of other people… living and dead… and that I must exert myself in order to give in the same measure as I have received.",
+    "text": "A hundred times every day I remind myself that my inner and outer life are based on the labors of other men, living and dead, and that I must exert myself in order to give in the same measure as I have received and am still receiving.",
+    "context": "Albert Einstein, « The World As I See It » (aussi « What I Believe »), d'abord publié en anglais dans Forum and Century, vol. 84, p. 193-194, puis dans Living Philosophies (Simon & Schuster, 1931) ; version allemande « Wie ich die Welt sehe » dans Mein Weltbild (1934). Le texte stocké avait dérivé (« a day », « other people », « lives », fin tronquée) ; il est remplacé par la version publiée. La version allemande, probablement rédigée par Einstein, n'a pas pu être consultée.",
+    "attribution": "altered",
+    "sources": [
+      {
+        "label": "American Institute of Physics, « The World As I See It » by Einstein",
+        "url": "https://history.aip.org/exhibits/einstein/essay.htm"
+      }
+    ],
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Cent fois par jour, je me rappelle que ma vie intérieure et extérieure repose sur le travail d'autres hommes, vivants et morts, et que je dois m'efforcer de donner dans la même mesure que j'ai reçu et que je reçois encore.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "jung-devenons-lumineux-regardant": {
     "type": "citation",
@@ -768,7 +1222,15 @@
         ]
       }
     ],
-    "text": "Nous ne devenons pas lumineux en regardant la lumiere mais nous le devenons en traversant nos propres tenebres.",
+    "text": "Nous ne devenons pas lumineux en regardant la lumière mais nous le devenons en traversant nos propres ténèbres.",
+    "context": "Paraphrase d'un passage de C. G. Jung, « Der philosophische Baum » (1945, révisé en 1954 dans Von den Wurzeln des Bewusstseins), Collected Works vol. 13, § 335, dont la traduction anglaise publiée dit : « One does not become enlightened by imagining figures of light, but by making the darkness conscious. » La version française a dérivé (« en regardant la lumière », « en traversant nos propres ténèbres »). Le texte allemand original n'a pas pu être consulté.",
+    "attribution": "altered",
+    "sources": [
+      {
+        "label": "Jungian Center for the Spiritual Sciences, « Gems from Alchemical Studies CW 13 » (cite CW 13, § 335)",
+        "url": "https://jungiancenter.org/gems-from-alchemical-studies-cw-13-part-i/"
+      }
+    ],
     "added": "2026-08-29",
     "lang": "fr"
   },
@@ -777,7 +1239,7 @@
     "title": "You will continue to suffer if you have…",
     "credits": [],
     "text": "You will continue to suffer if you have an emotional reaction to everything that is said to you. True power is sitting back and observing everything with logic. If words control you that means everyone else can control you. Breathe and allow things to pass.",
-    "context": "Falsly attributed to Bruce Lee or Warren Buffet",
+    "context": "Falsly attributed to Bruce Lee or Warren Buffet\n\nTexte anonyme. Selon Quote Investigator, la plus ancienne trace est une paire de tweets de Cindy Flores (@cfloorrrr) du 24 mars 2016 ; des fragments proches circulent dès 2009-2014. L’attribution à Warren Buffett (compte non officiel, 2018) et à Bruce Lee (octobre 2018) ne repose sur rien ; Sylvester McNutt III est aussi cité, tardivement.",
     "attribution": "misattributed",
     "sources": [
       {
@@ -786,7 +1248,14 @@
       }
     ],
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Tu continueras à souffrir tant que tu réagiras émotionnellement à tout ce qu’on te dit. Le vrai pouvoir, c’est de prendre du recul et de tout observer avec logique. Si les mots te contrôlent, alors n’importe qui peut te contrôler. Respire, et laisse passer les choses.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "jacquard-faut-mettre-societe": {
     "type": "citation",
@@ -833,8 +1302,26 @@
       }
     ],
     "text": "My life is my message",
+    "context": "Original non retrouvé sous forme vérifiable. D'après le témoignage de Kshitish Chandra Das Gupta (Mainstream, 1968, republié en 2017), Gandhi, sollicité pour un message à la veille de quitter Calcutta pour Delhi (il part le 7 septembre 1947), l'écrivit en bengali — « Amar Jeevan-i Amar Vani » (translittération) — et signa « Mo Ka Gandhi » en bengali. La phrase anglaise serait donc une traduction ; le texte en écriture bengalie et sa référence dans les Collected Works of Mahatma Gandhi n'ont pas été retrouvés.",
+    "sources": [
+      {
+        "label": "K. C. Das Gupta, « Gandhiji at the Dawn of Freedom », Mainstream (1968, republié en 2017)",
+        "url": "https://www.mainstreamweekly.net/article7497.html"
+      },
+      {
+        "label": "Wikiquote (en), Mahatma Gandhi",
+        "url": "https://en.wikiquote.org/wiki/Mahatma_Gandhi"
+      }
+    ],
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Ma vie est mon message.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire. « vani » (bengali) signifie aussi « parole » : « Ma vie est ma parole » serait une autre lecture."
+      }
+    ]
   },
   "jonas-droit-individuel-suicide": {
     "type": "citation",
@@ -848,6 +1335,7 @@
       }
     ],
     "text": "Le droit individuel au suicide, cela se discute, le droit au suicide de l’humanité, cela ne se discute pas.",
+    "context": "Original introuvable. L'idée correspond à Das Prinzip Verantwortung (1979 ; Le Principe responsabilité, Cerf, 1990) : l'humanité n'a pas de droit au suicide collectif mais une obligation inconditionnelle d'exister. La phrase exacte (allemande ou française) n'a pas été trouvée ; seuls des résumés secondaires ont été consultés.",
     "added": "2026-08-29",
     "lang": "fr"
   },
@@ -885,7 +1373,7 @@
   },
   "duplantier-the-only-way": {
     "type": "citation",
-    "title": "The only way is to understand the living…",
+    "title": "The only way is to understand the living",
     "credits": [
       {
         "agent": "joe-duplantier",
@@ -900,9 +1388,28 @@
         ]
       }
     ],
-    "text": "The only way is to understand the living (limits ?)",
+    "text": "The only way is to understand the living",
+    "context": "Paroles de « From the Sky », sur l’album From Mars to Sirius de Gojira (2005), texte de Joe Duplantier. Le mot douteux noté entre parenthèses (« limits ? ») est bien « living » : la phrase est coupée en deux vers (« The only way is to / Understand the living »).",
+    "sources": [
+      {
+        "label": "Metal Kingdom — paroles de « From the Sky » (Gojira, From Mars to Sirius)",
+        "url": "https://www.metalkingdom.net/lyrics-song/gojira-from-the-sky-12630"
+      },
+      {
+        "label": "Vagalume — paroles de « From the Sky »",
+        "url": "https://www.vagalume.com.br/gojira/from-the-sky.html"
+      }
+    ],
+    "published": "2005",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Le seul moyen, c’est de comprendre le vivant",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire. « the living » est rendu par « le vivant », dans le sens écologique cher à Gojira, plutôt que « les vivants »."
+      }
+    ]
   },
   "tillion-terme-mon-parcours": {
     "type": "citation",
@@ -931,6 +1438,14 @@
       }
     ],
     "text": "La douleur est obligatoire, la souffrance est optionnelle",
+    "context": "Original japonais non vérifié dans une source primaire. La phrase figure dans l'avant-propos de 走ることについて語るときに僕の語ること (Autoportrait de l'auteur en coureur de fond, 2007), mais Murakami la présente comme le mantra d'un autre coureur, pas comme la sienne. Dans la traduction anglaise (What I Talk About When I Talk About Running, Vintage, 2009, p. vii) : « Pain is inevitable. Suffering is optional. ». La formule est plus ancienne : elle circule dans les milieux des Alcooliques anonymes dès 1980 (« My sponsor says pain is inevitable, but suffering is optional », Step Two, Hazelden). « Obligatoire » traduit mal « inevitable » (inévitable). La forme japonaise donnée par des sites de fans, 「痛みは避けがたいが、苦しみはオプショナル（こちら次第）」, n'a pas pu être vérifiée dans le livre.",
+    "attribution": "misattributed",
+    "sources": [
+      {
+        "label": "Barry Popik, « Pain is inevitable, suffering is optional »",
+        "url": "https://barrypopik.com/blog/pain_is_inevitable"
+      }
+    ],
     "added": "2026-08-29",
     "concepts": [
       "douleur",
@@ -940,7 +1455,7 @@
   },
   "whitehead-fonction-raison": {
     "type": "citation",
-    "title": "La fonction de la raison",
+    "title": "The function of Reason is to promote…",
     "credits": [
       {
         "agent": "alfred-north-whitehead",
@@ -949,9 +1464,24 @@
         ]
       }
     ],
-    "text": "La fonction de la raison",
+    "text": "The function of Reason is to promote the art of life.",
+    "context": "Alfred North Whitehead, The Function of Reason, chapitre I : Louis Clark Vanuxem Foundation Lectures données à Princeton en mars 1929, publiées la même année (Princeton University Press). Whitehead la présente comme une « définition préliminaire » de la fonction de la Raison, avant d’attaquer l’« evolutionist fallacy » de la survie du plus apte.",
+    "sources": [
+      {
+        "label": "A. N. Whitehead, The Function of Reason (1929), chapitre I — texte en ligne (Université d’Utrecht)",
+        "url": "https://staticweb.hum.uu.nl/susanne.k.langer/whiteheadreason.html"
+      }
+    ],
+    "published": "1929",
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "La fonction de la Raison est de promouvoir l’art de vivre.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire. Le texte stocké (« La fonction de la raison ») n’était que le début de la phrase, qui est aussi le titre du livre. Une traduction française publiée existe (La Fonction de la raison, trad. Philippe Devaux, Payot), non consultée."
+      }
+    ]
   },
   "jefferson-quand-l-injuste-devient": {
     "type": "citation",
@@ -965,6 +1495,22 @@
       }
     ],
     "text": "Quand l’injuste devient loi, la résistance est un devoir",
+    "context": "Original non retrouvé : la fondation Thomas Jefferson (Monticello) classe « When injustice becomes law, resistance becomes duty » parmi les citations apocryphes, introuvable dans les écrits de Jefferson. Barry Popik relève la formule dans des milieux militants à partir de 1979 (manifestants de Hanovre, « When injustice becomes law, opposition is a duty », Atlas World Press Review), puis chez Petra Kelly (1983) et des militantes australiennes (Pine Gap, 1983) ; l’attribution à Jefferson n’apparaît qu’au XXIe siècle. La première trace étant liée à des manifestants allemands, la langue d’origine (allemand ou anglais) reste incertaine. Recherches : base des citations apocryphes de Monticello, Barry Popik, recherche d’un original français.",
+    "attribution": "misattributed",
+    "sources": [
+      {
+        "label": "Monticello — « When injustice becomes law, resistance becomes duty » (Spurious Quotation)",
+        "url": "https://www.monticello.org/research-education/thomas-jefferson-encyclopedia/when-injustice-becomes-law-resistance-becomes-duty-spurious-quotation/"
+      },
+      {
+        "label": "Monticello, Thomas Jefferson Retirement Spurious Quotes — fiche",
+        "url": "https://tjrs.monticello.org/node/2295"
+      },
+      {
+        "label": "Barry Popik — « When injustice becomes law, resistance becomes duty »",
+        "url": "https://barrypopik.com/blog/when_injustice_is_law_resistance_is_duty_when_injustice_is_law_rebellion_is"
+      }
+    ],
     "added": "2026-08-29",
     "lang": "fr"
   },
@@ -980,12 +1526,13 @@
       }
     ],
     "text": "Plus on essaie de rentrer dans le moule, plus on ressemble à une tarte.",
+    "context": "Origine non retrouvée : la phrase exacte n’apparaît dans aucune source datée trouvée (recherche web de la formule entre guillemets) ; elle circule comme bon mot anonyme en français, le jeu de mots moule/tarte ne fonctionnant qu’en français.",
     "added": "2026-08-29",
     "lang": "fr"
   },
   "spinoza-vaut-mieux-enseigner": {
     "type": "citation",
-    "title": "Il vaut mieux enseigner les vertus que condamner…",
+    "title": "Superstitiosi, qui vitia exprobrare magis…",
     "credits": [
       {
         "agent": "baruch-spinoza",
@@ -994,13 +1541,37 @@
         ]
       }
     ],
-    "text": "Il vaut mieux enseigner les vertus que condamner les vices.",
+    "text": "Superstitiosi, qui vitia exprobrare magis quam virtutes docere norunt, et qui homines non Ratione ducere, sed Metu ita continere student, ut malum potius fugiant quam virtutes ament, nil aliud intendunt, quam ut reliqui æque ac ipsi fiant miseri; et ideo non mirum, si plerumque molesti et odiosi sint hominibus.",
+    "context": "Maxime condensée d'un passage de l'Éthique de Spinoza, IVe partie, scolie de la proposition 63 (Opera posthuma, 1677). La même opposition revient dans l'Appendice de la IVe partie, chapitre 13 : « vitia potius exprobrare quam virtutes docere ».",
+    "attribution": "altered",
+    "sources": [
+      {
+        "label": "Ethica, Pars quarta, prop. LXIII, scholium — Wikisource latin",
+        "url": "https://la.wikisource.org/wiki/Ethica/Pars_quarta_-_De_servitute_humana_seu_de_affectuum_viribus"
+      },
+      {
+        "label": "Éthique, trad. Appuhn (1913), IVe partie — Wikisource",
+        "url": "https://fr.wikisource.org/wiki/%C3%89thique_(Appuhn,_1913)/Quatri%C3%A8me_partie_:_De_la_servitude_de_l%E2%80%99homme"
+      }
+    ],
+    "published": "1677",
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "la",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Il vaut mieux enseigner les vertus que condamner les vices.",
+        "translatorNote": "Ce n'est pas une traduction mais une maxime tirée du passage : Spinoza ne formule pas de précepte, il décrit les superstitieux qui « savent flétrir les vices plutôt qu'enseigner les vertus ». Traduction publiée d'Appuhn (1913) : « Les superstitieux qui savent flétrir les vices plutôt qu'enseigner les vertus, et qui, cherchant non à conduire les hommes par la Raison mais à les contenir par la Crainte, leur font fuir le mal sans aimer les vertus, ne tendent à rien d'autre qu'à rendre les autres aussi misérables qu'eux-mêmes ; il n'est donc pas étonnant qu'ils soient le plus souvent insupportables et odieux aux hommes. »",
+        "source": {
+          "label": "Comparer : Éthique, trad. Appuhn (1913), IVe partie, scolie de la prop. 63 — Wikisource",
+          "url": "https://fr.wikisource.org/wiki/%C3%89thique_(Appuhn,_1913)/Quatri%C3%A8me_partie_:_De_la_servitude_de_l%E2%80%99homme"
+        }
+      }
+    ]
   },
   "spinoza-l-homme-libre-pense": {
     "type": "citation",
-    "title": "L'homme libre pense à la mort moins qu'à…",
+    "title": "Homo liber de nulla re minus…",
     "credits": [
       {
         "agent": "baruch-spinoza",
@@ -1009,16 +1580,39 @@
         ]
       }
     ],
-    "text": "L'homme libre pense à la mort moins qu'à toute autre chose ; sa sagesse est une méditation non pas sur la mort mais sur la vie.",
+    "text": "Homo liber de nulla re minus quam de morte cogitat; et ejus sapientia non mortis, sed vitæ meditatio est.",
+    "context": "Spinoza, Éthique, IVe partie (De la servitude de l'homme), proposition 67, publiée dans les Opera posthuma (1677).",
+    "sources": [
+      {
+        "label": "Ethica, Pars quarta, prop. LXVII — Wikisource latin",
+        "url": "https://la.wikisource.org/wiki/Ethica/Pars_quarta_-_De_servitute_humana_seu_de_affectuum_viribus"
+      },
+      {
+        "label": "Éthique, trad. Appuhn (1913), IVe partie — Wikisource",
+        "url": "https://fr.wikisource.org/wiki/%C3%89thique_(Appuhn,_1913)/Quatri%C3%A8me_partie_:_De_la_servitude_de_l%E2%80%99homme"
+      }
+    ],
+    "published": "1677",
     "added": "2026-08-29",
     "concepts": [
       "vie"
     ],
-    "lang": "fr"
+    "lang": "la",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "L'homme libre pense à la mort moins qu'à toute autre chose ; sa sagesse est une méditation non pas sur la mort mais sur la vie.",
+        "translatorNote": "Traduction déjà présente dans la collection, d'origine non identifiée, fidèle au latin. Traduction publiée d'Appuhn (1913) : « Un homme libre ne pense à aucune chose moins qu'à la mort ; et sa sagesse est une méditation non de la mort mais de la vie. »",
+        "source": {
+          "label": "Comparer : Éthique, trad. Appuhn (1913), IVe partie, prop. 67 — Wikisource",
+          "url": "https://fr.wikisource.org/wiki/%C3%89thique_(Appuhn,_1913)/Quatri%C3%A8me_partie_:_De_la_servitude_de_l%E2%80%99homme"
+        }
+      }
+    ]
   },
   "hobbes-curiosity-the-lust": {
     "type": "citation",
-    "title": "Curiosity is the lust of the Mind",
+    "title": "Desire, to know why, and how, Curiosity…",
     "credits": [
       {
         "agent": "thomas-hobbes",
@@ -1027,13 +1621,32 @@
         ]
       }
     ],
-    "text": "Curiosity is the lust of the Mind",
+    "text": "Desire, to know why, and how, Curiosity; such as is in no living creature but Man: so that Man is distinguished, not onely by his Reason; but also by this singular Passion from other Animals; in whom the appetite of food, and other pleasures of Sense, by prædominance, take away the care of knowing causes; which is a Lust of the mind, that by a perseverance of delight in the continuall and indefatigable generation of Knowledge, exceedeth the short vehemence of any carnall Pleasure.",
+    "context": "Thomas Hobbes, Leviathan (1651), première partie, chapitre VI (« Of the Interiour Beginnings of Voluntary Motions, commonly called the Passions »), dans la liste des passions. La formule « Curiosity is the lust of the Mind » qui circule est une condensation de cette phrase. Texte de l’édition de 1651, orthographe d’origine.",
+    "sources": [
+      {
+        "label": "Wikisource — Leviathan (1651), chapitre 6",
+        "url": "https://en.wikisource.org/wiki/Leviathan_(1651)/Chapter_6"
+      },
+      {
+        "label": "M. A. Soubbotnik, « Le Behemoth de Hobbes… », Filozofski vestnik, 2003 (traduit « lust » par « concupiscence »)",
+        "url": "https://ojs.zrc-sazu.si/filozofski-vestnik/article/download/3395/3092/8832"
+      }
+    ],
+    "published": "1651",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Le désir de savoir pourquoi et comment : la CURIOSITÉ. On ne la trouve chez aucune créature vivante, sauf chez l’homme ; si bien que l’homme se distingue des autres animaux non seulement par sa raison, mais aussi par cette passion singulière. Chez eux, l’appétit de nourriture et des autres plaisirs des sens, par sa prédominance, ôte le souci de connaître les causes. La curiosité est une concupiscence de l’esprit qui, par la persistance du plaisir pris à engendrer sans relâche et sans lassitude de la connaissance, l’emporte sur la brève véhémence de tout plaisir charnel.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire. « Lust » est rendu par « concupiscence », comme dans l’article de M. A. Soubbotnik (Filozofski vestnik, 2003) ; la longue phrase de Hobbes est découpée en trois. Des traductions publiées existent (Tricaud, Sirey 1971 ; Folliot, Les Classiques des sciences sociales) mais n’ont pas pu être consultées."
+      }
+    ]
   },
   "astier-chefs-guerre-sortes": {
     "type": "citation",
-    "title": "Des chefs de guerre, y en a de…",
+    "title": "Des chefs de guerre, il y en a…",
     "credits": [
       {
         "agent": "alexandre-astier",
@@ -1054,8 +1667,19 @@
         ]
       }
     ],
-    "text": "Des chefs de guerre, y en a de toutes sortes : des bons, des \nmauvais. Des pleines cagettes, il y en a. Mais une fois de temps en \ntemps, il en sort un exceptionnel. Un héros, une légende… Des chefs \ncomme ça, il n’y en a presque jamais. Mais tu sais ce qu’ils ont tous en\n commun, tu sais ce que c’est leur pouvoir secret ? Ils ne se battent \nque pour la dignité des faibles",
-    "context": "Texte écrit par Astier et récité par Pierre Mondi en tant que César.",
+    "text": "Des chefs de guerre, il y en a de toutes sortes. Des bons, des mauvais, des pleines cagettes, il y en a. Mais une fois de temps en temps, il en sort un. Exceptionnel. Un héros. Une légende. Des chefs comme ça, il n’y en a presque jamais. Mais tu sais ce qu’ils ont tous en commun ? Tu sais ce que c’est, leur pouvoir secret ? Ils ne se battent que pour la dignité des faibles.",
+    "context": "Texte écrit par Astier et récité par Pierre Mondy en tant que César. Kaamelott, Livre VI, épisode 6 « Nuptiæ » (2009) : César, s’adressant au jeune Arthur. Arthur reprend l’idée dans l’épisode 1 du Livre VI, « Dies Iræ » (« ils ne se battent que pour la dignité des faibles »).",
+    "sources": [
+      {
+        "label": "Wikiquote (fr) — Kaamelott, Livre VI, 6 : Nuptiæ",
+        "url": "https://fr.wikiquote.org/wiki/Kaamelott"
+      },
+      {
+        "label": "Kaamelott Wiki — Dies Iræ (Livre VI), script",
+        "url": "https://kaamelott.fandom.com/fr/wiki/Dies_Ir%C3%A6_(Livre_VI)/Script"
+      }
+    ],
+    "published": "2009",
     "added": "2026-08-29",
     "concepts": [
       "direction-au-sens-leadership"
@@ -1064,7 +1688,7 @@
   },
   "twain-trois-sortes-mensonges": {
     "type": "citation",
-    "title": "Il y a trois sortes de mensonges …",
+    "title": "There are three kinds of lies…",
     "credits": [
       {
         "agent": "mark-twain",
@@ -1073,9 +1697,25 @@
         ]
       }
     ],
-    "text": "Il y a trois sortes de mensonges : les mensonges, les sacrés mensonges et les statistiques.",
+    "text": "There are three kinds of lies: lies, damned lies, and statistics.",
+    "context": "Mark Twain l’écrit bien, dans « Chapters from My Autobiography — XX », North American Review, 5 juillet 1907 (vol. 186, n° 618), mais en la citant comme une remarque attribuée à Disraeli : « Figures often beguile me, particularly when I have the arranging of them myself; in which case the remark attributed to Disraeli would often apply with justice and force ». Il n’en revendique pas la paternité. Aucune trace chez Disraeli ; la formule circule dès 1891-1892 (Charles Dilke, Arthur Balfour) et son auteur reste inconnu selon Quote Investigator.",
+    "attribution": "disputed",
+    "sources": [
+      {
+        "label": "Quote Investigator — « There Are Three Kinds of Lies: Lies, Damned Lies, and Statistics »",
+        "url": "https://quoteinvestigator.com/2022/06/22/lies-statistics/"
+      }
+    ],
+    "published": "1907",
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Il y a trois sortes de mensonges : les mensonges, les sacrés mensonges et les statistiques.",
+        "translatorNote": "Version française déjà présente dans la collection ; fidèle (« damned » rendu par « sacrés »)."
+      }
+    ]
   },
   "hugo-reduction-l-univers-seul": {
     "type": "citation",
@@ -1119,6 +1759,7 @@
       }
     ],
     "text": "Là où il y a de la lumière, il y a nécessairement de l’ombre, là où il y a de l’ombre, il y a nécessairement de la lumière.",
+    "context": "Original japonais non retrouvé. La phrase est couramment rattachée au roman 1Q84 (2009-2010 ; en anglais « Where there is light, there must be shadow, and where there is shadow there must be light »), mais ni le passage japonais ni le livre et le chapitre exacts n'ont pu être vérifiés dans une source fiable : seulement des pages de citations sans référence.",
     "added": "2026-08-29",
     "lang": "fr"
   },
@@ -1134,8 +1775,35 @@
       }
     ],
     "text": "I sincerely believe that banking institutions are more dangerous to our liberties than standing armies. The issuing power should be taken from the banks and restored to the people to whom it properly belongs.",
+    "context": "Citation composite, jugée en partie apocryphe par la fondation de Monticello. La première phrase déforme une lettre authentique de Jefferson à John Taylor du 28 mai 1816 : « And I sincerely believe, with you, that banking establishments are more dangerous than standing armies; » (« Et je crois sincèrement, comme vous, que les établissements bancaires sont plus dangereux que les armées permanentes »). La seconde (« The issuing power… ») n’a été trouvée dans aucun écrit de Jefferson ; ce serait une déformation d’une lettre à John Wayles Eppes (« Bank-paper must be suppressed, and the circulating medium must be restored to the nation to whom it belongs »). Les deux phrases sont accolées dès 1896 (Life Work of Thomas L. Nugent), avec une fausse référence à une lettre à Gallatin.",
+    "attribution": "altered",
+    "sources": [
+      {
+        "label": "Teaching American History — lettre de Jefferson à John Taylor, 28 mai 1816",
+        "url": "https://teachingamericanhistory.org/document/letter-to-john-taylor/"
+      },
+      {
+        "label": "Founders Online — Thomas Jefferson to John Taylor, 28 May 1816",
+        "url": "https://founders.archives.gov/documents/Jefferson/03-10-02-0053"
+      },
+      {
+        "label": "Monticello — Private Banks (Spurious Quotation)",
+        "url": "https://www.monticello.org/encyclopedia/private-banks-spurious-quotation"
+      },
+      {
+        "label": "Barry Popik — « I believe that banking institutions are more dangerous to our liberties than standing armies »",
+        "url": "https://barrypopik.com/blog/i_believe_that_banking_institutions_are_more_dangerous_to_our_liberties_tha"
+      }
+    ],
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Je crois sincèrement que les institutions bancaires sont plus dangereuses pour nos libertés que les armées permanentes. Le pouvoir d’émission devrait être retiré aux banques et rendu au peuple, à qui il appartient légitimement.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire. « issuing power » : le pouvoir d’émettre la monnaie."
+      }
+    ]
   },
   "shaw-imagination-the-beginning": {
     "type": "citation",
@@ -1148,13 +1816,28 @@
         ]
       }
     ],
-    "text": "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine and at last you create what you will.",
+    "text": "Imagination is the beginning of creation. You imagine what you desire; you will what you imagine; and at last you create what you will.",
+    "context": "Réplique du Serpent à Ève dans Back to Methuselah de George Bernard Shaw (1921), première partie, acte I. C’est une réplique de personnage, pas une maxime de Shaw en son nom propre.",
+    "sources": [
+      {
+        "label": "Wikiquote — Back to Methuselah, Pt. I, Act I (The Serpent)",
+        "url": "https://en.wikiquote.org/wiki/Back_to_Methuselah"
+      }
+    ],
+    "published": "1921",
     "added": "2026-08-29",
     "concepts": [
       "imagination",
       "creation"
     ],
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "L’imagination est le commencement de la création. On imagine ce que l’on désire ; on veut ce que l’on imagine ; et à la fin, on crée ce que l’on veut.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "hugo-science-l-asymptote-verite": {
     "type": "citation",
@@ -1183,8 +1866,23 @@
       }
     ],
     "text": "The life that you want is on the other side of the work you are avoiding",
+    "context": "Source primaire non retrouvée. La phrase n’apparaît ni dans les citations relevées de son livre Before & Laughter (2021) sur Goodreads, ni dans les interviews et podcasts indexés (Chris Williamson, Diary of a CEO…). Formule proche du genre « développement personnel » qu’il pratique, mais attribution non vérifiée.",
+    "attribution": "disputed",
+    "sources": [
+      {
+        "label": "Goodreads — citations de Before & Laughter (Jimmy Carr)",
+        "url": "https://www.goodreads.com/work/quotes/91080939"
+      }
+    ],
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "La vie que tu veux se trouve de l’autre côté du travail que tu évites.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "thibon-l-esprit-philosophique-consiste": {
     "type": "citation",
@@ -1212,13 +1910,29 @@
         ]
       }
     ],
-    "text": "Life is not primarily a quest for pleasure, as Freud believed, or a quest for power, as Alfred Adler taught, but a quest for meaning. The greatest task for any person is to find meaning in his or her own life.",
+    "text": "Life is not primarily a quest for pleasure, as Freud believed, or a quest for power, as Alfred Adler taught, but a quest for meaning. The greatest task for any person is to find meaning in his or her life.",
+    "context": "Ces phrases ne sont pas de Viktor Frankl : elles sont du rabbin Harold S. Kushner, dans l'avant-propos qu'il a écrit pour la réédition de Man's Search for Meaning chez Beacon Press (2006), où il résume « l'une des idées clés » de Frankl. Le texte stocké portait « his or her own life » ; l'avant-propos dit « his or her life ». L'auteur rattaché à la fiche devrait sans doute être corrigé.",
+    "attribution": "misattributed",
+    "sources": [
+      {
+        "label": "Man's Search for Meaning, Beacon Press, avant-propos de Harold S. Kushner (© 2006), archive.org",
+        "url": "https://archive.org/details/mans-search-for-meaning-viktor-e.-frankl-dr-furqan-library"
+      }
+    ],
+    "published": "2006",
     "added": "2026-08-29",
     "concepts": [
       "vie",
       "sens"
     ],
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "La vie n'est pas d'abord une quête du plaisir, comme le croyait Freud, ni une quête du pouvoir, comme l'enseignait Alfred Adler, mais une quête de sens. La plus grande tâche de chacun est de trouver un sens à sa vie.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "frankl-when-person-can-t": {
     "type": "citation",
@@ -1232,12 +1946,21 @@
       }
     ],
     "text": "When a person can’t find a deep sense of meaning, they distract themselves with pleasure.",
+    "context": "Original introuvable : la phrase ne figure ni dans Man's Search for Meaning (édition Beacon Press) ni dans aucune source datée ; elle ne circule que sur des sites de citations. Le passage le plus proche, dans le postscript de Man's Search for Meaning, dit : « In other cases, the place of frustrated will to meaning is taken by the will to pleasure. » Il s'agit probablement d'une paraphrase moderne de cette idée.",
+    "attribution": "disputed",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Quand une personne ne trouve pas de sens profond, elle se distrait par le plaisir.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "marx-philosophes-n-ont-fait": {
     "type": "citation",
-    "title": "Les philosophes n'ont fait qu'interpréter le monde de…",
+    "title": "Die Philosophen haben die Welt nur verschieden interpretiert…",
     "credits": [
       {
         "agent": "karl-marx",
@@ -1246,9 +1969,32 @@
         ]
       }
     ],
-    "text": "Les philosophes n'ont fait qu'interpréter le monde de différentes manières, mais ce qui importe, c'est de le transformer",
+    "text": "Die Philosophen haben die Welt nur verschieden interpretiert; es kommt aber darauf an, sie zu verändern.",
+    "context": "Karl Marx, Thèses sur Feuerbach, onzième thèse, écrites au printemps 1845 et publiées par Engels en 1888 en annexe de Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie (Dietz). Le texte retenu est celui publié par Engels ; le manuscrit de Marx (1845) porte : « Die Philosophen haben die Welt nur verschieden interpretiert, es kömmt drauf an, sie zu verändern. »",
+    "sources": [
+      {
+        "label": "Marxists Internet Archive, Thesen über Feuerbach (texte d'Engels, 1888)",
+        "url": "https://www.marxists.org/deutsch/archiv/marx-engels/1845/thesen/thesfeue.htm"
+      },
+      {
+        "label": "Marxists Internet Archive, Thesen über Feuerbach (manuscrit de 1845)",
+        "url": "https://www.marxists.org/deutsch/archiv/marx-engels/1845/thesen/thesfeue-or.htm"
+      },
+      {
+        "label": "Wikisource (de), Thesen über Feuerbach",
+        "url": "https://de.wikisource.org/wiki/Thesen_%C3%BCber_Feuerbach"
+      }
+    ],
+    "published": "1888",
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "de",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Les philosophes n'ont fait qu'interpréter le monde de différentes manières, mais ce qui importe, c'est de le transformer",
+        "translatorNote": "Traduction française déjà stockée, fidèle à la version de 1888 (le « mais » rend le « aber » ajouté par Engels) ; édition d'origine non identifiée."
+      }
+    ]
   },
   "valery-l-homme-sait-assez": {
     "type": "citation",
@@ -1292,8 +2038,23 @@
       }
     ],
     "text": "The master has failed more times than the beginner has even tried",
+    "context": "Source primaire non retrouvée. Largement attribuée à Stephen McCranie, auteur de bandes dessinées (Mal and Chad, Space Boy), sur Goodreads et des blogs, mais sans case, planche ni publication identifiée. D’autres la présentent comme un « vieux proverbe oriental » avec « student » au lieu de « beginner ».",
+    "attribution": "disputed",
+    "sources": [
+      {
+        "label": "Goodreads — liste de citations (attribuée à Stephen McCranie, sans source)",
+        "url": "https://www.goodreads.com/quotes/list/83280358"
+      }
+    ],
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Le maître a échoué plus de fois que le débutant n’a même essayé.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "hamilton-men-give-credit": {
     "type": "citation",
@@ -1307,12 +2068,31 @@
       }
     ],
     "text": "Men give me credit for some genius. All the genius I have lies in this; when I have a subject in hand, I study it profoundly. Day and night it is before me. My mind becomes pervaded with it. Then the effort that I have made is what people are pleased to call the fruit of genius. It is the fruit of labor and thought.",
+    "context": "Source primaire non retrouvée dans les écrits de Hamilton. Les sites qui la citent (Hannah Arendt Center, Mental Floss) ne donnent aucune référence ; Mental Floss précise que Hamilton l’aurait dit à un ami « selon des récits ultérieurs ». Le libellé varie (« Men give me some credit for genius »).",
+    "attribution": "disputed",
+    "sources": [
+      {
+        "label": "Hannah Arendt Center (Bard) — « Alexander Hamilton on the Fruit of Labor and Thought » (2015)",
+        "url": "https://hac.bard.edu/amor-mundi/alexander-hamilton-on-the-fruit-of-labor-and-thought-2015-08-04"
+      },
+      {
+        "label": "Mental Floss — 11 Life Lessons from Alexander Hamilton",
+        "url": "https://www.mentalfloss.com/article/93857/11-life-lessons-alexander-hamilton"
+      }
+    ],
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "On me prête un certain génie. Tout mon génie tient en ceci : quand j’ai un sujet en main, je l’étudie à fond. Jour et nuit, il est devant moi. Mon esprit s’en imprègne. Et l’effort que j’ai fourni, les gens se plaisent à l’appeler le fruit du génie. C’est le fruit du travail et de la réflexion.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "hamilton-give-all-the": {
     "type": "citation",
-    "title": "Give all the power to the many, they…",
+    "title": "Give all power to the many, they…",
     "credits": [
       {
         "agent": "alexander-hamilton",
@@ -1321,9 +2101,28 @@
         ]
       }
     ],
-    "text": "Give all the power to the many, they will oppress the few. Give all the power to the few, they will oppress the many.",
+    "text": "Give all power to the many, they will oppress the few. Give all power to the few, they will oppress the many.",
+    "context": "Pas les Federalist Papers : discours de Hamilton à la Convention constitutionnelle de Philadelphie, le 18 juin 1787, où il présente son plan de gouvernement. La phrase figure dans les notes de James Madison (« In every community where industry is encouraged, there will be a division of it into the few and the many. […] Both, therefore, ought to have the power, that each may defend itself against the other. ») ; elle ne figure pas dans la version de Robert Yates.",
+    "sources": [
+      {
+        "label": "Teaching American History — The Hamilton Plan, 18 juin 1787 (notes de Madison, éd. Gordon Lloyd)",
+        "url": "https://teachingamericanhistory.org/document/the-hamilton-plan/"
+      },
+      {
+        "label": "Founders Online — James Madison’s Version, [18 June 1787]",
+        "url": "https://founders.archives.gov/documents/Hamilton/01-04-02-0098-0003"
+      }
+    ],
+    "published": "1787",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Donnez tout le pouvoir au grand nombre, il opprimera le petit nombre. Donnez tout le pouvoir au petit nombre, il opprimera le grand nombre.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "snowden-arguing-that-you": {
     "type": "citation",
@@ -1336,9 +2135,24 @@
         ]
       }
     ],
-    "text": "Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.",
+    "text": "Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.",
+    "context": "Réponse d’Edward Snowden lors d’un AMA (« Ask Me Anything ») sur Reddit le 21 mai 2015, mené avec Jameel Jaffer de l’ACLU. Snowden avait déjà formulé l’idée le 2 mai 2015 (#SnowdenLive). La comparaison circulait avant lui sur Twitter (2011, 2013), mais cette formulation est la sienne.",
+    "sources": [
+      {
+        "label": "Barry Popik — « Giving up on privacy because you’ve got nothing to hide… » (historique des formulations)",
+        "url": "https://barrypopik.com/blog/giving_up_on_privacy_because_youve_got"
+      }
+    ],
+    "published": "2015",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Dire que le droit à la vie privée vous importe peu parce que vous n’avez rien à cacher, ce n’est pas différent de dire que la liberté d’expression vous importe peu parce que vous n’avez rien à dire.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "einstein-ceux-ont-privilege": {
     "type": "citation",
@@ -1351,7 +2165,15 @@
         ]
       }
     ],
-    "text": "Ceux qui ont le privilège de savoir ont le devoir d'agir.",
+    "text": "Ceux qui ont le privilège de savoir ont le devoir d'agir.",
+    "context": "Original introuvable : aucun texte d'Einstein ne contient la phrase anglaise « Those who have the privilege to know have the duty to act » ni d'équivalent allemand. Barry Popik a trouvé comme plus ancienne trace le livre Rocky Mountain Futures: An Ecological Perspective (Island Press, 2002, p. XXVII), qui l'attribue à Einstein sans source, près de cinquante ans après sa mort.",
+    "attribution": "disputed",
+    "sources": [
+      {
+        "label": "Barry Popik, « Those who have the privilege to know, have the duty to act »",
+        "url": "https://barrypopik.com/blog/those_who_have_the_privilege_to_know"
+      }
+    ],
     "added": "2026-08-29",
     "lang": "fr"
   },
@@ -1376,7 +2198,7 @@
   },
   "shaw-pire-peche-envers": {
     "type": "citation",
-    "title": "Le pire pêché envers nos semblables, ce n'est…",
+    "title": "The worst sin towards our fellow creatures…",
     "credits": [
       {
         "agent": "george-bernard-shaw",
@@ -1385,9 +2207,28 @@
         ]
       }
     ],
-    "text": "Le pire pêché envers nos semblables, ce n'est pas de les haïr, mais de les traiter avec indifférence ; c'est là l'essence de l'inhumanité.",
+    "text": "The worst sin towards our fellow creatures is not to hate them, but to be indifferent to them: thats the essence of inhumanity.",
+    "context": "George Bernard Shaw, The Devil’s Disciple (pièce créée en 1897), acte II : le pasteur Anthony Anderson à sa femme Judith, qui vient d’avouer sa haine pour Richard Dudgeon (« Come, dear, youre not so wicked as you think. »). « thats » sans apostrophe : orthographe propre à Shaw, conservée.",
+    "sources": [
+      {
+        "label": "Bernard Shaw, The Devil’s Disciple, Londres, Constable, 1921 — archive.org",
+        "url": "https://archive.org/details/devilsdiscipleme00shawuoft"
+      },
+      {
+        "label": "Quote Investigator — « The Worst Sin Towards Our Fellow Creatures Is Not To Hate Them, But To Be Indifferent To Them »",
+        "url": "https://quoteinvestigator.com/2019/10/04/indifferent/"
+      }
+    ],
+    "published": "1897",
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Le pire péché envers nos semblables, ce n'est pas de les haïr, mais de les traiter avec indifférence ; c'est là l'essence de l'inhumanité.",
+        "translatorNote": "Version française déjà présente dans la collection, fidèle ; seule correction : « pêché » → « péché »."
+      }
+    ]
   },
   "valery-the-best-way": {
     "type": "citation",
@@ -1401,8 +2242,17 @@
       }
     ],
     "text": "The best way to make your dreams come true is to wake up",
+    "context": "Original français non retrouvé : la phrase ne circule qu’en anglais, sur des sites de citations sans référence, et aucune formule correspondante n’a été trouvée dans les textes de Valéry consultables en ligne (recherches : « réaliser ses rêves » + « se réveiller », Tel quel, Cahiers). Elle est aussi attribuée, sans plus de preuve, à d’autres auteurs (Hemingway, Faulkner, Muhammad Ali). Valéry a écrit sur le rêve et le réveil (« Le réveil commence comme un autre rêve », attribué aux Cahiers), mais rien ne permet d’y rattacher cette phrase.",
+    "attribution": "disputed",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "La meilleure façon de réaliser ses rêves, c’est de se réveiller.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire. Ce n’est pas un original de Valéry retrouvé : aucune source française de cette phrase n’a été trouvée."
+      }
+    ]
   },
   "aurele-mon-dieu-donnez": {
     "type": "citation",
@@ -1415,13 +2265,29 @@
         ]
       }
     ],
-    "text": "Mon Dieu, donnez-moi la sérénité d'accepter les choses que je ne peux pas changer, le courage de changer celles que je peux changer et la sagesse de distinguer les premières des secondes\nVoir sur https://citations.ouest-france.fr/citation-marc-aurele/dieu-donnez-serenite-accepter-choses-106194.html",
+    "text": "Mon Dieu, donnez-moi la sérénité d'accepter les choses que je ne peux pas changer, le courage de changer celles que je peux changer et la sagesse de distinguer les premières des secondes",
+    "context": "C'est la « prière de la sérénité », rien de tel dans les Pensées de Marc Aurèle. Quote Investigator conclut que le théologien américain Reinhold Niebuhr en est très probablement l'auteur : première trace partielle en 1932 (journal de Winnifred Crane Wygal, qui la lui attribue), première version complète en trois parties en 1933. L'attribution à Marc Aurèle, comme à Cicéron, Boèce ou François d'Assise, ne repose sur aucune source.",
+    "attribution": "misattributed",
+    "sources": [
+      {
+        "label": "Quote Investigator, « Serenity Prayer » (2019)",
+        "url": "https://quoteinvestigator.com/2019/12/24/serenity/"
+      },
+      {
+        "label": "Wikipédia (en), Serenity Prayer",
+        "url": "https://en.wikipedia.org/wiki/Serenity_Prayer"
+      },
+      {
+        "label": "Ouest-France citations (attribution à Marc Aurèle)",
+        "url": "https://citations.ouest-france.fr/citation-marc-aurele/dieu-donnez-serenite-accepter-choses-106194.html"
+      }
+    ],
     "added": "2026-08-29",
     "lang": "fr"
   },
   "more-prie-prie-monsieur": {
     "type": "citation",
-    "title": "Je vous en prie, je vous en prie…",
+    "title": "I pray you, I pray you, Mr. Lieutenant…",
     "credits": [
       {
         "agent": "thomas-more",
@@ -1430,9 +2296,23 @@
         ]
       }
     ],
-    "text": "Je vous en prie, je vous en prie, Monsieur le lieutenant, aidez-moi à monter ; pour la descente, je me débrouillerai",
+    "text": "I pray you, I pray you, Mr. Lieutenant, see me safe up, and for my coming down let me shift for myself.",
+    "context": "Paroles de Thomas More au lieutenant de la Tour de Londres en montant sur l'échafaud, très branlant, à Tower Hill, le 6 juillet 1535. Elles ont été dites en anglais, pas en latin, et sont rapportées par son gendre William Roper dans sa Vie de Thomas More (écrite vers 1556, imprimée en 1626). Texte cité ici d'après l'édition modernisée des Harvard Classics.",
+    "sources": [
+      {
+        "label": "William Roper, The Life of Sir Thomas More (Harvard Classics) — Internet Modern History Sourcebook, Fordham",
+        "url": "https://sourcebooks.web.fordham.edu/mod/16Croper-more.asp"
+      }
+    ],
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Je vous en prie, je vous en prie, Monsieur le lieutenant, aidez-moi à monter ; pour la descente, je me débrouillerai",
+        "translatorNote": "Traduction déjà présente dans la collection, d'origine non identifiée, fidèle à l'anglais."
+      }
+    ]
   },
   "khan-you-are-afraid": {
     "type": "citation",
@@ -1446,8 +2326,17 @@
       }
     ],
     "text": "If you are afraid, don't do it. If you are doing it, don't be afraid.",
+    "context": "Original non retrouvé. La phrase circule seulement en anglais, sur des sites de citations qui ne donnent aucune source. Elle n'a été retrouvée dans aucun texte mongol ancien ni dans aucune étude sur Gengis Khan, qui attire beaucoup de citations apocryphes. Un original éventuel serait en mongol, langue absente de la liste.",
+    "attribution": "disputed",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Si tu as peur, ne le fais pas. Si tu le fais, n'aie pas peur.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "ruppert-until-you-change": {
     "type": "citation",
@@ -1461,8 +2350,23 @@
       }
     ],
     "text": "Until you change the way money works, you change nothing.",
+    "context": "Interview de Michael Ruppert (figure du documentaire Collapse de Chris Smith, 2009) par The Occupied Times, journal du mouvement Occupy London, publiée le 2 décembre 2011. Il prononce la phrase deux fois, à propos de la taxe Robin des bois puis en conclusion. Elle ne vient pas du film Collapse.",
+    "sources": [
+      {
+        "label": "The Occupied Times — « Money Talks: Mike Ruppert » (2 décembre 2011)",
+        "url": "https://theoccupiedtimes.org/?p=1294"
+      }
+    ],
+    "published": "2011",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Tant qu’on ne change pas la façon dont l’argent fonctionne, on ne change rien.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "bukowski-the-problem-with": {
     "type": "citation",
@@ -1476,12 +2380,28 @@
       }
     ],
     "text": "The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence",
+    "context": "Paraphrase élargie. Ce que Bukowski a réellement dit, dans une interview à la revue Arete (juillet-août 1989, reprise dans Sunlight Here I Am, 2003), concerne les écrivains : « But the problem is that bad writers tend to have the self-confidence, while the good ones tend to have self-doubt. » (« Mais le problème, c’est que les mauvais écrivains ont en général de l’assurance, alors que les bons doutent d’eux-mêmes. ») La version générale doit beaucoup à Bertrand Russell (1933 : « the stupid are cocksure while the intelligent are full of doubt ») et, plus loin, à Yeats (« The best lack all conviction… »).",
+    "attribution": "altered",
+    "sources": [
+      {
+        "label": "Quote Investigator — « The Best Lack All Conviction While the Worst Are Full of Passionate Intensity » (2015)",
+        "url": "https://quoteinvestigator.com/2015/03/04/self-doubt/"
+      }
+    ],
+    "published": "1989",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Le problème de ce monde, c’est que les gens intelligents sont pleins de doutes, alors que les imbéciles sont pleins d’assurance.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "reeves-you-are-lover": {
     "type": "citation",
-    "title": "If you are a Lover you gotta be…",
+    "title": "If you're a lover, you've got to be…",
     "credits": [
       {
         "agent": "keanu-reeves",
@@ -1490,13 +2410,32 @@
         ]
       }
     ],
-    "text": "If you are a Lover you gotta be a Fighter, because if you don’t fight for you love, what kind of love do you have ?",
+    "text": "If you're a lover, you've got to be a fighter, 'cause if you don't fight for your love, what kind of love do you have?",
+    "context": "Keanu Reeves sur le plateau du Drew Barrymore Show, en décembre 2021. Drew Barrymore venait de se décrire comme « a lover, not a fighter » ; il lui répond par cette phrase.",
+    "sources": [
+      {
+        "label": "Wikiquote — Keanu Reeves (interview avec Drew Barrymore, décembre 2021)",
+        "url": "https://en.wikiquote.org/wiki/Keanu_Reeves"
+      },
+      {
+        "label": "CinemaBlend — l’extrait avec Drew Barrymore",
+        "url": "https://cinemablend.com/movies/insanely-cute-clip-of-keanu-reeves-telling-drew-barrymore-she-can-be-a-lover-and-a-fighter-is-running-around-on-the-internet-again"
+      }
+    ],
+    "published": "2021",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Si tu es amoureux, il faut être un battant, parce que si tu ne te bats pas pour ton amour, c’est quoi, ton amour ?",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire. Keanu Reeves retourne l’expression anglaise « I’m a lover, not a fighter » que venait d’employer Drew Barrymore."
+      }
+    ]
   },
   "bruno-eprouvez-doute-crainte": {
     "type": "citation",
-    "title": "Vous éprouvez sans doute plus de crainte à…",
+    "title": "Maiori forsan cum timore sententiam…",
     "credits": [
       {
         "agent": "giordano-bruno",
@@ -1505,13 +2444,35 @@
         ]
       }
     ],
-    "text": "Vous éprouvez sans doute plus de crainte à rendre cette sentence que moi à la recevoir",
+    "text": "Maiori forsan cum timore sententiam in me fertis quam ego accipiam.",
+    "context": "Paroles adressées par Giordano Bruno à ses juges de l'Inquisition à Rome, le 8 février 1600, après la lecture de sa condamnation. Elles ne sont connues que par le témoignage de Kaspar Schoppe (Scioppius), dans une lettre en latin à Konrad Rittershausen datée du 17 février 1600 (reproduite notamment par Spampanato, Vita di Giordano Bruno). Les éditions varient légèrement (« forsan » ou « forsitan »).",
+    "sources": [
+      {
+        "label": "Wikipédia (it), Giordano Bruno — citation latine et renvoi à Schoppe / Spampanato",
+        "url": "https://it.wikipedia.org/wiki/Giordano_Bruno"
+      },
+      {
+        "label": "De Sanctis, Storia della letteratura italiana (1912), ch. XIX — Wikisource",
+        "url": "https://it.wikisource.org/wiki/Storia_della_letteratura_italiana_(De_Sanctis_1912)/XIX._La_nuova_scienza/I."
+      },
+      {
+        "label": "Lettre de Schoppe, traduction anglaise intégrale (History for Atheists)",
+        "url": "https://historyforatheists.com/2017/05/giordano-bruno-gaspar-schoppes-account-of-his-condemnation/"
+      }
+    ],
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "la",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Vous éprouvez sans doute plus de crainte à rendre cette sentence que moi à la recevoir",
+        "translatorNote": "Traduction déjà présente dans la collection, d'origine non identifiée. « forsan » signifie « peut-être » : « sans doute » durcit un peu la nuance. Plus littéralement : « Peut-être prononcez-vous cette sentence contre moi avec plus de crainte que je n'en ai à la recevoir. »"
+      }
+    ]
   },
   "bruno-univers-place-providence": {
     "type": "citation",
-    "title": "De plus, dans cet univers, je place une…",
+    "title": "Di più, in questo universo metto…",
     "credits": [
       {
         "agent": "giordano-bruno",
@@ -1520,13 +2481,35 @@
         ]
       }
     ],
-    "text": "De plus, dans cet univers, je place une providence universelle, en vertu de laquelle toute chose vit, se développe, se meut et demeure dans sa perfection ; et j’entends [cette providence] en deux façons : l’une, à la façon dont l’âme est présente au corps, tout entière dans le corps tout entier, et tout entière en n’importe quelle partie [du corps], et je l’appelle nature, ombre et trace de la divinité…https://fr.wikipedia.org/wiki/Giordano_Bruno#cite_note-21",
+    "text": "Di più, in questo universo metto una providenza universal, in virtù della quale ogni cosa vive, vegeta e si move e sta nella sua perfezione; e la intendo in due maniere, l'una nel modo con cui presente è l'anima nel corpo, tutta in tutto e tutta in qual si voglia parte, e questo chiamo natura, ombra e vestigio della divinità…",
+    "context": "Déposition de Giordano Bruno devant l'Inquisition de Venise, interrogatoire (costituto) du mardi 2 juin 1592, où il expose sa doctrine de l'univers infini et de la providence. Texte publié par Vincenzo Spampanato, Vita di Giordano Bruno, con documenti editi e inediti, vol. 2 (1921).",
+    "sources": [
+      {
+        "label": "Spampanato, Vita di Giordano Bruno, vol. 2 (1921), documents du procès vénitien — archive.org",
+        "url": "https://archive.org/details/vitadigiordanobr02spam"
+      },
+      {
+        "label": "Wikipédia (fr), Giordano Bruno — section Doctrine, note 21",
+        "url": "https://fr.wikipedia.org/wiki/Giordano_Bruno#cite_note-21"
+      }
+    ],
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "it",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "De plus, dans cet univers, je place une providence universelle, en vertu de laquelle toute chose vit, se développe, se meut et demeure dans sa perfection ; et j'entends [cette providence] en deux façons : l'une, à la façon dont l'âme est présente au corps, tout entière dans le corps tout entier, et tout entière en n'importe quelle partie [du corps], et je l'appelle nature, ombre et trace de la divinité…",
+        "translatorNote": "Traduction d'A.-Ph. Segonds, citée d'après Wikipédia (le volume n'a pas été consulté directement).",
+        "source": {
+          "label": "Giordano Bruno, Documents I. Le procès, texte de L. Firpo, trad. A.-Ph. Segonds, Les Belles Lettres, 2000, p. 64-66 (cité par Wikipédia)",
+          "url": "https://fr.wikipedia.org/wiki/Giordano_Bruno"
+        }
+      }
+    ]
   },
   "spinoza-omnia-praeclara-tam": {
     "type": "citation",
-    "title": "Omnia praeclara tam difficilia quam rara sunt",
+    "title": "Omnia praeclara tam difficilia…",
     "credits": [
       {
         "agent": "baruch-spinoza",
@@ -1536,8 +2519,31 @@
       }
     ],
     "text": "Omnia praeclara tam difficilia quam rara sunt",
+    "context": "Dernière phrase de l'Éthique (Ethica ordine geometrico demonstrata), Ve partie, scolie de la proposition 42, publiée dans les Opera posthuma (1677). Texte complet : « Sed omnia præclara tam difficilia quam rara sunt. »",
+    "sources": [
+      {
+        "label": "Ethica, Pars quinta, prop. XLII, scholium — Wikisource latin",
+        "url": "https://la.wikisource.org/wiki/Ethica/Pars_quinta_-_De_potentia_intellectus_seu_de_libertate_humana"
+      },
+      {
+        "label": "Éthique, trad. Appuhn (1913), Ve partie — Wikisource",
+        "url": "https://fr.wikisource.org/wiki/%C3%89thique_(Appuhn,_1913)/Cinqui%C3%A8me_partie_:_De_la_libert%C3%A9_de_l%E2%80%99homme"
+      }
+    ],
+    "published": "1677",
     "added": "2026-08-29",
-    "lang": "la"
+    "lang": "la",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Tout ce qui est beau est difficile autant que rare.",
+        "translatorNote": "Traduction de Charles Appuhn (1913). La phrase complète commence par « Sed » (« Mais tout ce qui est beau… »), omis ici comme dans le texte stocké.",
+        "source": {
+          "label": "Spinoza, Éthique, trad. Charles Appuhn (1913), Ve partie, scolie de la prop. 42 — Wikisource",
+          "url": "https://fr.wikisource.org/wiki/%C3%89thique_(Appuhn,_1913)/Cinqui%C3%A8me_partie_:_De_la_libert%C3%A9_de_l%E2%80%99homme"
+        }
+      }
+    ]
   },
   "frankl-but-there-was": {
     "type": "citation",
@@ -1551,24 +2557,61 @@
       }
     ],
     "text": "But there was no need to be ashamed of tears, for tears bore witness that a man had the greatest of courage, the courage to suffer",
+    "context": "Le texte anglais est bien celui de Man's Search for Meaning (traduction d'Ilse Lasch), vérifié dans l'édition de 1963, première partie « Experiences in a Concentration Camp ». Mais le livre est la traduction de « … trotzdem Ja zum Leben sagen. Ein Psychologe erlebt das Konzentrationslager » (Vienne, 1946) : le passage allemand original n'a pas pu être consulté en ligne.",
+    "sources": [
+      {
+        "label": "Man's Search for Meaning, édition de 1963, archive.org",
+        "url": "https://archive.org/details/frankl-viktor-mans-search-for-meaning-1963"
+      }
+    ],
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Mais il n'y avait pas lieu d'avoir honte de ses larmes, car les larmes témoignaient qu'un homme avait le plus grand des courages, le courage de souffrir.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "objectif-plan-n-est": {
     "type": "citation",
-    "title": "Un objectif sans plan n'est qu'un vœux",
+    "title": "A goal without a plan is just…",
     "credits": [],
-    "text": "Un objectif sans plan n'est qu'un vœux",
+    "text": "A goal without a plan is just a wish.",
+    "context": "Proverbe anglais anonyme. Forme voisine dès 1984 (« A goal without a plan is only a wish », Mobile Press Register, 19 août 1984), précédée de « a goal without a plan is a dream » (publicité Dale Carnegie, 1976) ; la forme « just a wish » apparaît en 1995 (Joan Horbiak, 50 Ways to Lose Ten Pounds), comme proverbe anonyme. Attribuée à Antoine de Saint-Exupéry depuis 2006 environ, sans aucune trace dans son œuvre.",
+    "sources": [
+      {
+        "label": "Barry Popik — « A goal without a plan is just a wish »",
+        "url": "https://barrypopik.com/blog/a_goa_without_a_plan_is_just_a_wish"
+      }
+    ],
+    "published": "1995",
     "added": "2026-08-29",
-    "lang": "fr"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Un objectif sans plan n'est qu'un vœu",
+        "translatorNote": "Version française déjà présente dans la collection ; seule correction : « vœux » → « vœu »."
+      }
+    ]
   },
   "i-m-not-sure": {
     "type": "citation",
     "title": "I'm not sure that inexistence can exist",
     "credits": [],
     "text": "I'm not sure that inexistence can exist",
+    "context": "Aucune source trouvée : la recherche de la phrase exacte ne donne rien, seulement des discussions philosophiques sur le paradoxe de l’inexistence (Parménide, Meinong, Russell). Pas d’auteur connu ; « inexistence » est inhabituel en anglais (on dirait plutôt « nonexistence »), ce qui suggère un francophone écrivant en anglais.",
     "added": "2026-08-29",
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Je ne suis pas sûr que l’inexistence puisse exister.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "bruno-n-y-haut-bas": {
     "type": "citation",
@@ -1582,6 +2625,8 @@
       }
     ],
     "text": "Il n'y a pas de haut ni de bas, pas de disposition absolue dans l'espace. Il n'y a que des positions relatives aux autres. Partout il y a un incessant changement de positions relatives à travers l'Univers et l'observateur est toujours au centre des choses",
+    "context": "Original non retrouvé. La formule circule en anglais (« There is no absolute up or down, as Aristotle taught; no absolute position in space… the observer is always at the center of things ») sur des sites de citations qui la rattachent tantôt à De la causa, principio et uno, tantôt à aucune œuvre ; elle n'a été retrouvée ni dans l'italien de Bruno ni dans une traduction référencée (Wikiquote anglais ne la donne pas). Le ton de résumé laisse penser à une paraphrase moderne des idées de Bruno (dialogues De l'infinito, universo e mondi, 1584) plutôt qu'à une citation.",
+    "attribution": "disputed",
     "added": "2026-08-29",
     "lang": "fr"
   },
@@ -1590,7 +2635,17 @@
     "title": "Le centre de l'univers est partout, et sa…",
     "credits": [],
     "text": "Le centre de l'univers est partout, et sa circonférence nulle part",
-    "context": "Une idée née au Moyen Âge dans le Livre des XXIV Philosophes pour décrire Dieu, reprise et radicalisée par Giordano Bruno au XVIe siècle pour décrire un univers infini sans centre fixe, puis popularisée par Pascal dans ses Pensées. Tous l'ont formulée avec le mot \"sphère\" — image géométrique contradictoire pour désigner l'infini. C'est la version épurée, sans \"sphère\", attribuée au vidéaste Monsieur Phi, qui en est la formulation la plus rigoureuse.",
+    "context": "Une idée née au Moyen Âge dans le Livre des XXIV Philosophes pour décrire Dieu, reprise et radicalisée par Giordano Bruno au XVIe siècle pour décrire un univers infini sans centre fixe, puis popularisée par Pascal dans ses Pensées. Tous l'ont formulée avec le mot \"sphère\" — image géométrique contradictoire pour désigner l'infini. C'est la version épurée, sans \"sphère\", attribuée au vidéaste Monsieur Phi, qui en est la formulation la plus rigoureuse. Formulations d’origine : « Deus est sphaera infinita cuius centrum est ubique, circumferentia nusquam » (Liber XXIV philosophorum, définition II, plus ancien manuscrit connu au XIIe siècle) ; « C’est une sphère infinie dont le centre est partout, la circonférence nulle part » (Pascal, Pensées, fragment « Disproportion de l’homme »). La vidéo de Monsieur Phi qui emploierait la version sans « sphère » n’a pas été retrouvée.",
+    "sources": [
+      {
+        "label": "Book of the 24 Philosophers — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Book_of_the_24_Philosophers"
+      },
+      {
+        "label": "Pascal, Pensées — « C'est une sphère infinie dont le centre est partout… » (L'Internaute)",
+        "url": "https://www.linternaute.fr/citation/4196/c-est-une-sphere-infinie-dont-le-centre-est-partout--la--blaise-pascal/"
+      }
+    ],
     "added": "2026-08-29",
     "lang": "fr"
   },
@@ -1636,7 +2691,7 @@
       }
     ],
     "text": "The smaller we come to feel ourselves compared with the mountain, the nearer we come to participating in its greatness.",
-    "context": "Fin de l'essai « Modesty and the Conquest of Mountains », paru dans The Mountain Spirit (dir. Michael Charles Tobias et Harold Drasdo, Overlook Press, 1979) — l'essai qui ouvre sur « Mountains are big. Very big. But they are also great. Very great. » ⚠️ L'édition originale n'a pas été consultée : la phrase circule aussi sous la forme « compared to the mountain », et introduite par « This way is such that… ». À vérifier sur le texte imprimé.",
+    "context": "Fin de l'essai « Modesty and the Conquest of Mountains », paru dans The Mountain Spirit (dir. Michael Charles Tobias et Harold Drasdo, Overlook Press, 1979) — l'essai qui ouvre sur « Mountains are big. Very big. But they are also great. Very great. » ⚠️ L'édition originale n'a pas été consultée : la phrase circule aussi sous la forme « compared to the mountain », et introduite par « This way is such that… ». À vérifier sur le texte imprimé.\n\nRichard Langlais (The Trumpeter, 1992) cite le passage en bloc d’après The Mountain Spirit : « As I see it, modesty is of little value if it is not a natural consequence of much deeper feelings […]. This way is such that the smaller we come to feel ourselves compared to the mountain, the nearer we come to participating in its greatness. I do not know why this is so. » Il donne « compared to », retenu ici ; « compared with » vient de reprises sans référence. L’édition de 1979 reste à vérifier.",
     "sources": [
       {
         "label": "American Alpine Journal — recension de The Mountain Spirit (atteste l'essai de Næss dans le recueil)",
@@ -1645,6 +2700,10 @@
       {
         "label": "Springer — « Modesty and the Conquest of Mountains », repris dans The Selected Works of Arne Naess",
         "url": "https://link.springer.com/chapter/10.1007/978-1-4020-4519-6_118"
+      },
+      {
+        "label": "R. Langlais, « Living in the World: Mountain Humility, Great Humility », The Trumpeter, 1992 (cite le passage d’après The Mountain Spirit)",
+        "url": "https://trumpeter.athabascau.ca/index.php/trumpet/article/download/429/703/1528"
       }
     ],
     "published": "1979",
@@ -1653,7 +2712,14 @@
       "ecologie",
       "spiritualite"
     ],
-    "lang": "en"
+    "lang": "en",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "Plus nous nous sentons petits face à la montagne, plus nous sommes près de participer à sa grandeur.",
+        "translatorNote": "Traduction de travail proposée par Claude, à relire."
+      }
+    ]
   },
   "bacon-commande-nature-obeissant": {
     "type": "citation",
