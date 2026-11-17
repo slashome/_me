@@ -1657,7 +1657,7 @@
   },
   "bacon-commande-nature-obeissant": {
     "type": "citation",
-    "title": "L'homme commande à la nature…",
+    "title": "Naturae enim non imperatur…",
     "credits": [
       {
         "agent": "francis-bacon",
@@ -1666,8 +1666,8 @@
         ]
       }
     ],
-    "text": "L'homme commande à la nature en lui obéissant.",
-    "context": "Traduction libre d'un adage du Novum Organum (1620), livre I. Bacon l'écrit deux fois : aphorisme III, « Natura enim non nisi parendo vincitur » (on ne vainc la nature qu'en lui obéissant), et aphorisme CXXIX, « Naturae enim non imperatur, nisi parendo » (on ne commande à la nature qu'en lui obéissant). La forme française courante est « On ne commande à la nature qu'en lui obéissant » ; « L'homme commande… » n'est pas dans le texte.",
+    "text": "Naturae enim non imperatur, nisi parendo.",
+    "context": "Novum Organum (1620), livre I, aphorisme CXXIX. L'idée est déjà posée à l'aphorisme III : « Natura enim non nisi parendo vincitur » (on ne vainc la nature qu'en lui obéissant).",
     "sources": [
       {
         "label": "Wikisource (la) — Novum Organum, Liber Primus, aphorismes III et CXXIX",
@@ -1679,6 +1679,13 @@
     "concepts": [
       "connaissance"
     ],
-    "lang": "fr"
+    "lang": "la",
+    "translations": [
+      {
+        "lang": "fr",
+        "text": "L'homme commande à la nature en lui obéissant.",
+        "translatorNote": "Formulation sous laquelle Florian a recueilli la phrase : une traduction libre, qui ajoute « l'homme ». La forme française courante est « On ne commande à la nature qu'en lui obéissant »."
+      }
+    ]
   }
 }
