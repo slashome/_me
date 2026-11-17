@@ -204,13 +204,8 @@
   },
   "joe-duplantier": {
     "kind": "person",
-    "name": "Joe Duplantier",
-    "sortName": "Duplantier, Joe"
-  },
-  "joel-duplantier": {
-    "kind": "person",
-    "name": "Joel Duplantier",
-    "sortName": "Duplantier, Joel"
+    "name": "Joseph Duplantier",
+    "sortName": "Duplantier, Joseph"
   },
   "mario-duplantier": {
     "kind": "person",
@@ -311,6 +306,22 @@
   "marc-aurele": {
     "kind": "person",
     "name": "Marc Aurèle"
+  },
+  "harold-s-kushner": {
+    "kind": "person",
+    "name": "Harold S. Kushner",
+    "sortName": "Kushner, Harold S.",
+    "born": "1935-04-03",
+    "died": "2023-04-28",
+    "gender": "m",
+    "bio": "Rabbin américain, longtemps à Temple Israel de Natick (Massachusetts), auteur de When Bad Things Happen to Good People (1981). Il signe l'avant-propos de la réédition de Man's Search for Meaning de Viktor Frankl en 2006.",
+    "wikidata": "Q1826749",
+    "links": [
+      {
+        "label": "Wikipedia (en)",
+        "url": "https://en.wikipedia.org/wiki/Harold_Kushner"
+      }
+    ]
   },
   "karl-marx": {
     "kind": "person",

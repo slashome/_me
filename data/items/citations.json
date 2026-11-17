@@ -723,7 +723,7 @@
     "title": "Roots so deep, head so high",
     "credits": [
       {
-        "agent": "joel-duplantier",
+        "agent": "joe-duplantier",
         "roles": [
           "author"
         ]
@@ -924,7 +924,7 @@
       }
     ],
     "text": "There’s not a fight on Earth that I have zero chance. That element of zero chance doesn’t exist.",
-    "context": "Dit en anglais par Francis Ngannou dans le JRE MMA Show #160 (podcast de Joe Rogan, 23 juillet 2024), en réponse à ceux qui lui donnaient « zéro chance » contre Tyson Fury parce qu’il n’était pas boxeur. Il est possible que Ngannou ait dit la même chose en français ailleurs : aucune source française n’a été trouvée.",
+    "context": "Dit en anglais par Francis Ngannou dans le JRE MMA Show #160 (podcast de Joe Rogan, 23 juillet 2024), en réponse à ceux qui lui donnaient « zéro chance » contre Tyson Fury parce qu’il n’était pas boxeur.",
     "sources": [
       {
         "label": "JRE MMA Show #160 with Francis Ngannou — transcription (rosetta.to)",
@@ -1082,7 +1082,7 @@
   },
   "benjamin-l-humanite-devenue-assez": {
     "type": "citation",
-    "title": "Ihre Selbstentfremdung hat jenen Grad erreicht…",
+    "title": "L'humanité, qui jadis avec Homère…",
     "credits": [
       {
         "agent": "walter-benjamin",
@@ -1091,21 +1091,26 @@
         ]
       }
     ],
-    "text": "Ihre Selbstentfremdung hat jenen Grad erreicht, der sie ihre eigene Vernichtung als ästhetischen Genuß ersten Ranges erleben läßt.",
-    "context": "Walter Benjamin, « Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit », Nachwort (dernier paragraphe). La phrase précédente pose le sujet : « Die Menschheit, die einst bei Homer ein Schauobjekt für die olympischen Götter war, ist es nun für sich selbst geworden. » L'essai a d'abord paru en 1936 dans une traduction française (Zeitschrift für Sozialforschung, vol. 5) ; le texte allemand cité est celui de l'édition Suhrkamp (2003).",
+    "text": "L'humanité, qui jadis avec Homère avait été objet de contemplation pour les dieux olympiens, l'est maintenant devenue pour elle-même. Son aliénation d'elle-même par elle-même a atteint ce degré qui lui fait vivre sa propre destruction comme une sensation esthétique de tout premier ordre.",
+    "context": "Walter Benjamin, « L'œuvre d'art à l'époque de sa reproduction mécanisée », Zeitschrift für Sozialforschung, vol. 5, n° 1 (Paris, Alcan, 1936), traduction de Pierre Klossowski revue avec l'auteur ; dernier paragraphe. C'est la première publication de l'essai, d'où le français comme texte de référence. Benjamin l'avait écrit en allemand ; le texte allemand n'a paru qu'en 1955. La version française courante, traduite de l'allemand, dit : « L'humanité est devenue assez étrangère à elle-même pour réussir à vivre sa propre destruction comme une jouissance esthétique de premier ordre. »",
     "sources": [
+      {
+        "label": "Texte de 1936 (traduction Klossowski), transcription — académie de Normandie",
+        "url": "https://philosophie.ac-normandie.fr/IMG/pdf/benjamin_walter_1936_-_l_oeuvre_d_art_a_l_epoque_de_sa_reproduction_mecanisee.pdf"
+      },
       {
         "label": "Walter Benjamin, Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit, Suhrkamp 2003 (PDF lernhelfer.de)",
         "url": "https://www.lernhelfer.de/sites/default/files/lexicon/pdf/BWS-DEU2-0804-02.pdf"
       }
     ],
+    "published": "1936",
     "added": "2026-08-29",
-    "lang": "de",
+    "lang": "fr",
     "translations": [
       {
-        "lang": "fr",
-        "text": "L'humanité est devenue assez étrangère à elle-même pour réussir à vivre sa propre destruction comme une jouissance esthétique de premier ordre.",
-        "translatorNote": "Traduction française déjà stockée, fidèle ; elle remplace « Ihre » (son, c'est-à-dire de l'humanité, sujet de la phrase précédente) par « L'humanité ». Édition d'origine non identifiée."
+        "lang": "de",
+        "text": "Ihre Selbstentfremdung hat jenen Grad erreicht, der sie ihre eigene Vernichtung als ästhetischen Genuß ersten Ranges erleben läßt.",
+        "translatorNote": "Texte allemand de Benjamin lui-même, dans la version de l'essai publiée en 1955 (cité d'après l'édition Suhrkamp de 2003). Ce n'est pas une traduction du français : c'est la version écrite par l'auteur, qui ne reprend que la seconde phrase."
       }
     ]
   },
@@ -1173,11 +1178,7 @@
       {
         "lang": "fr",
         "text": "Tous ces moments se perdront dans l’oubli, comme les larmes dans la pluie. Il est temps de mourir.",
-        "translatorNote": "Version française du film telle que relevée par citation-celebre.com ; la source ne précise pas s’il s’agit du doublage (Roy Batty est doublé par Hervé Bellon) ou des sous-titres.",
-        "source": {
-          "label": "citation-celebre.com — réplique de Roy Batty, Blade Runner",
-          "url": "https://www.citation-celebre.com/citations/84727"
-        }
+        "translatorNote": "Traduction de travail, proche de la version française du film. L'original de référence est l'anglais : c'est la langue du film."
       }
     ]
   },
@@ -1904,19 +1905,18 @@
     "title": "Life is not primarily a quest for pleasure…",
     "credits": [
       {
-        "agent": "viktor-e-frankl",
+        "agent": "harold-s-kushner",
         "roles": [
           "author"
         ]
       }
     ],
     "text": "Life is not primarily a quest for pleasure, as Freud believed, or a quest for power, as Alfred Adler taught, but a quest for meaning. The greatest task for any person is to find meaning in his or her life.",
-    "context": "Ces phrases ne sont pas de Viktor Frankl : elles sont du rabbin Harold S. Kushner, dans l'avant-propos qu'il a écrit pour la réédition de Man's Search for Meaning chez Beacon Press (2006), où il résume « l'une des idées clés » de Frankl. Le texte stocké portait « his or her own life » ; l'avant-propos dit « his or her life ». L'auteur rattaché à la fiche devrait sans doute être corrigé.",
-    "attribution": "misattributed",
+    "context": "Avant-propos de Harold S. Kushner à la réédition de Man's Search for Meaning de Viktor Frankl (Beacon Press, 2006), où il résume « l'une des idées clés » de Frankl. La phrase circule sous le nom de Frankl, mais elle n'est pas de lui. Le texte stocké portait « his or her own life » ; l'avant-propos dit « his or her life ».",
     "sources": [
       {
-        "label": "Man's Search for Meaning, Beacon Press, avant-propos de Harold S. Kushner (© 2006), archive.org",
-        "url": "https://archive.org/details/mans-search-for-meaning-viktor-e.-frankl-dr-furqan-library"
+        "label": "Beacon Press — Man's Search for Meaning (2006), « Foreword by Harold S. Kushner »",
+        "url": "https://www.beacon.org/Mans-Search-for-Meaning-P602.aspx"
       }
     ],
     "published": "2006",
