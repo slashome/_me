@@ -26,3 +26,35 @@ jobs:
           node-version: '22'
 
       - run: npx -y tsx@4 check.ts
+
+  # Le contenu validé ne se publie pas tout seul : le moteur vit dans un autre
+  # dépôt, et son déploiement n'a aucun moyen de savoir que `data/` a bougé.
+  # C'est ce job qui le lui dit — le chaînon qui manquait entre les deux dépôts.
+  reveille-le-moteur:
+    needs: check
+    runs-on: ubuntu-latest
+    # Trois gardes, et chacune ferme un cas réel :
+    #   `repository` — un fork qui pousse sur SON main ne déploie pas mon site ;
+    #   `event_name` — une pull_request ne publie rien, seul un merge publie ;
+    #   `ref`        — une branche de travail valide ses données sans les mettre en ligne.
+    if: >-
+      github.repository == 'slashome/_me' &&
+      github.event_name == 'push' &&
+      github.ref == 'refs/heads/main'
+    steps:
+      # `GITHUB_TOKEN` ne peut PAS servir ici : il est limité à ce dépôt, et
+      # déclencher un workflow ailleurs demande un token qui porte `contents:
+      # write` sur slashome/me. D'où le secret — c'est le seul de ce dépôt.
+      - name: Déclencher le déploiement du site
+        env:
+          GH_TOKEN: ${{ secrets.ENGINE_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error::Secret ENGINE_DISPATCH_TOKEN absent — le contenu est valide mais le site ne sera pas reconstruit. Voir README.md."
+            exit 1
+          fi
+          gh api repos/slashome/me/dispatches \
+            --method POST \
+            --field event_type=content-updated \
+            --field 'client_payload[commit]=${{ github.sha }}'
+          echo "Déploiement demandé à slashome/me pour ${GITHUB_SHA:0:7}."
