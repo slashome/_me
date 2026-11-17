@@ -19,6 +19,22 @@
     "name": "Alexandre Astier",
     "sortName": "Astier, Alexandre"
   },
+  "francis-bacon": {
+    "kind": "person",
+    "name": "Francis Bacon",
+    "sortName": "Bacon, Francis",
+    "born": "1561-01-22",
+    "died": "1626-04-09",
+    "gender": "m",
+    "bio": "Philosophe et homme d'État anglais, chancelier sous Jacques Ier. Dans le Novum Organum (1620), il oppose à la logique d'Aristote une méthode fondée sur l'observation et l'induction, et fait de la connaissance de la nature la condition du pouvoir sur elle.",
+    "wikidata": "Q37388",
+    "links": [
+      {
+        "label": "Wikipédia (fr)",
+        "url": "https://fr.wikipedia.org/wiki/Francis_Bacon_(philosophe)"
+      }
+    ]
+  },
   "walter-benjamin": {
     "kind": "person",
     "name": "Walter Benjamin",

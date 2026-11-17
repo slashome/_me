@@ -1654,5 +1654,31 @@
       "spiritualite"
     ],
     "lang": "en"
+  },
+  "bacon-commande-nature-obeissant": {
+    "type": "citation",
+    "title": "L'homme commande à la nature…",
+    "credits": [
+      {
+        "agent": "francis-bacon",
+        "roles": [
+          "author"
+        ]
+      }
+    ],
+    "text": "L'homme commande à la nature en lui obéissant.",
+    "context": "Traduction libre d'un adage du Novum Organum (1620), livre I. Bacon l'écrit deux fois : aphorisme III, « Natura enim non nisi parendo vincitur » (on ne vainc la nature qu'en lui obéissant), et aphorisme CXXIX, « Naturae enim non imperatur, nisi parendo » (on ne commande à la nature qu'en lui obéissant). La forme française courante est « On ne commande à la nature qu'en lui obéissant » ; « L'homme commande… » n'est pas dans le texte.",
+    "sources": [
+      {
+        "label": "Wikisource (la) — Novum Organum, Liber Primus, aphorismes III et CXXIX",
+        "url": "https://la.wikisource.org/wiki/Novum_Organum/Liber_Primus"
+      }
+    ],
+    "published": "1620",
+    "added": "2026-11-17",
+    "concepts": [
+      "connaissance"
+    ],
+    "lang": "fr"
   }
 }
